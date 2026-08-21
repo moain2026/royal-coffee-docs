@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://keifaldiafa.com/sitemap.xml
+Sitemap: https://keifaldiafa.com/image-sitemap.xml
+Sitemap: https://keifaldiafa.com/sitemap_index.xml

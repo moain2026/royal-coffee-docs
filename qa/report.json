@@ -1,0 +1,647 @@
+{
+ "mobile_home": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 143,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "ضيافةٌ تُروى عنهابعد انتهاء المناسبة"
+  ],
+  "imgBroken": [],
+  "svg": 149,
+  "rvNotIn": 0,
+  "docH": 21270
+ },
+ "mobile_services": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 104,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "خدمات الضيافة"
+  ],
+  "imgBroken": [],
+  "svg": 60,
+  "rvNotIn": 0,
+  "docH": 9100
+ },
+ "mobile_svc": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 112,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "قهوجيين ومباشرين لضيافة الرجال"
+  ],
+  "imgBroken": [],
+  "svg": 67,
+  "rvNotIn": 0,
+  "docH": 9049
+ },
+ "mobile_occ": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 103,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "ضيافة الأعراس والملكات"
+  ],
+  "imgBroken": [],
+  "svg": 55,
+  "rvNotIn": 0,
+  "docH": 7826
+ },
+ "mobile_menu": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 112,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "أكثر من ٧٠ صنفاً"
+  ],
+  "imgBroken": [],
+  "svg": 60,
+  "rvNotIn": 0,
+  "docH": 18845
+ },
+ "mobile_mcat": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 104,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "القهوة والشاي"
+  ],
+  "imgBroken": [],
+  "svg": 51,
+  "rvNotIn": 0,
+  "docH": 6551
+ },
+ "mobile_gallery": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 112,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "نبذة من أعمالنا"
+  ],
+  "imgBroken": [],
+  "svg": 54,
+  "rvNotIn": 0,
+  "docH": 8203
+ },
+ "mobile_prices": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 107,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "دليل أسعار الضيافة"
+  ],
+  "imgBroken": [],
+  "svg": 73,
+  "rvNotIn": 0,
+  "docH": 7764
+ },
+ "mobile_about": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 98,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "عن القهوة الملكية"
+  ],
+  "imgBroken": [],
+  "svg": 71,
+  "rvNotIn": 0,
+  "docH": 10654
+ },
+ "mobile_faq": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 104,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "أسئلة وأجوبة"
+  ],
+  "imgBroken": [],
+  "svg": 52,
+  "rvNotIn": 0,
+  "docH": 4783
+ },
+ "mobile_contact": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [],
+  "tapTotal": 114,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "احجز ضيافتك"
+  ],
+  "imgBroken": [],
+  "svg": 55,
+  "rvNotIn": 0,
+  "docH": 6387
+ },
+ "mobile_social": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.sx-orb sx-orb1",
+   "DIV.sx-orb sx-orb2",
+   "DIV.sx-orb sx-orb3",
+   "DIV.sx-grid"
+  ],
+  "tapTotal": 107,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "القهوة الملكية"
+  ],
+  "imgBroken": [],
+  "svg": 49,
+  "rvNotIn": 0,
+  "docH": 5901
+ },
+ "mobile_locs": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 136,
+  "tapSmall": [
+   "A.sr 1",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42"
+  ],
+  "h1": [
+   "عشر مدن — بفرقٍ محلية مقيمة"
+  ],
+  "imgBroken": [],
+  "svg": 67,
+  "rvNotIn": 0,
+  "docH": 10117
+ },
+ "mobile_city": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 118,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "ضيافة جدة"
+  ],
+  "imgBroken": [],
+  "svg": 81,
+  "rvNotIn": 0,
+  "docH": 11748
+ },
+ "mobile_fam": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 123,
+  "tapSmall": [
+   "A.sr 1",
+   "A. 44",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42"
+  ],
+  "h1": [
+   "قهوجيين جدة"
+  ],
+  "imgBroken": [],
+  "svg": 80,
+  "rvNotIn": 0,
+  "docH": 12593
+ },
+ "mobile_nf": {
+  "scrollW": 390,
+  "clientW": 390,
+  "hOverflow": [],
+  "tapTotal": 100,
+  "tapSmall": [
+   "A.sr 1",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42"
+  ],
+  "h1": [
+   "هذه الصفحة غير موجودة"
+  ],
+  "imgBroken": [],
+  "svg": 41,
+  "rvNotIn": 0,
+  "docH": 3512
+ },
+ "desktop_home": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 143,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "ضيافةٌ تُروى عنهابعد انتهاء المناسبة"
+  ],
+  "imgBroken": [],
+  "svg": 149,
+  "rvNotIn": 0,
+  "docH": 14889
+ },
+ "desktop_services": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 104,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "خدمات الضيافة"
+  ],
+  "imgBroken": [],
+  "svg": 60,
+  "rvNotIn": 0,
+  "docH": 5073
+ },
+ "desktop_svc": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 112,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "قهوجيين ومباشرين لضيافة الرجال"
+  ],
+  "imgBroken": [
+   "http://localhost:3000/static/img/tent-sm.webp",
+   "http://localhost:3000/static/img/souqiya-5-sm.webp",
+   "http://localhost:3000/static/img/eq-tray-sm.webp",
+   "http://localhost:3000/static/img/sw-station-sm.webp"
+  ],
+  "svg": 67,
+  "rvNotIn": 0,
+  "docH": 6884
+ },
+ "desktop_occ": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 103,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "ضيافة الأعراس والملكات"
+  ],
+  "imgBroken": [],
+  "svg": 55,
+  "rvNotIn": 0,
+  "docH": 5260
+ },
+ "desktop_menu": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 112,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "أكثر من ٧٠ صنفاً"
+  ],
+  "imgBroken": [],
+  "svg": 60,
+  "rvNotIn": 0,
+  "docH": 16045
+ },
+ "desktop_mcat": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 104,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "القهوة والشاي"
+  ],
+  "imgBroken": [],
+  "svg": 51,
+  "rvNotIn": 0,
+  "docH": 4695
+ },
+ "desktop_gallery": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 112,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "نبذة من أعمالنا"
+  ],
+  "imgBroken": [],
+  "svg": 54,
+  "rvNotIn": 0,
+  "docH": 8614
+ },
+ "desktop_prices": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 107,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "دليل أسعار الضيافة"
+  ],
+  "imgBroken": [],
+  "svg": 73,
+  "rvNotIn": 0,
+  "docH": 5392
+ },
+ "desktop_about": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 98,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "عن القهوة الملكية"
+  ],
+  "imgBroken": [],
+  "svg": 71,
+  "rvNotIn": 0,
+  "docH": 8005
+ },
+ "desktop_faq": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 104,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "أسئلة وأجوبة"
+  ],
+  "imgBroken": [],
+  "svg": 52,
+  "rvNotIn": 0,
+  "docH": 3285
+ },
+ "desktop_contact": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [],
+  "tapTotal": 114,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "احجز ضيافتك"
+  ],
+  "imgBroken": [],
+  "svg": 55,
+  "rvNotIn": 0,
+  "docH": 4425
+ },
+ "desktop_social": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.sx-orb sx-orb1",
+   "DIV.sx-orb sx-orb2",
+   "DIV.sx-orb sx-orb3",
+   "DIV.sx-grid"
+  ],
+  "tapTotal": 107,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "القهوة الملكية"
+  ],
+  "imgBroken": [],
+  "svg": 49,
+  "rvNotIn": 0,
+  "docH": 3220
+ },
+ "desktop_locs": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 136,
+  "tapSmall": [
+   "A.sr 1",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42"
+  ],
+  "h1": [
+   "عشر مدن — بفرقٍ محلية مقيمة"
+  ],
+  "imgBroken": [],
+  "svg": 67,
+  "rvNotIn": 0,
+  "docH": 5655
+ },
+ "desktop_city": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 118,
+  "tapSmall": [
+   "A.sr 1"
+  ],
+  "h1": [
+   "ضيافة جدة"
+  ],
+  "imgBroken": [],
+  "svg": 81,
+  "rvNotIn": 0,
+  "docH": 8389
+ },
+ "desktop_fam": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [
+   "DIV.cta-glow"
+  ],
+  "tapTotal": 123,
+  "tapSmall": [
+   "A.sr 1",
+   "A. 44",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42"
+  ],
+  "h1": [
+   "قهوجيين جدة"
+  ],
+  "imgBroken": [],
+  "svg": 80,
+  "rvNotIn": 0,
+  "docH": 9847
+ },
+ "desktop_nf": {
+  "scrollW": 1440,
+  "clientW": 1440,
+  "hOverflow": [],
+  "tapTotal": 100,
+  "tapSmall": [
+   "A.sr 1",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42",
+   "A. 42"
+  ],
+  "h1": [
+   "هذه الصفحة غير موجودة"
+  ],
+  "imgBroken": [],
+  "svg": 41,
+  "rvNotIn": 0,
+  "docH": 1691
+ }
+}

@@ -1,0 +1,563 @@
+{
+ "keif|fast": {
+  "lcp": 644,
+  "lcpEl": "P.text-text-primary mb-4 font-cairo gold-shine-text",
+  "cls": 0,
+  "shifts": [],
+  "longtasks": [
+   172,
+   60,
+   62,
+   128
+  ],
+  "ttfb": 59,
+  "fcp": 644,
+  "dcl": 251,
+  "load": 1337,
+  "transfer": 803,
+  "reqs": 74,
+  "contrast": {
+   "total": 97,
+   "failCount": 44,
+   "fails": [
+    {
+     "t": "كيف الضيافة",
+     "size": 20.8,
+     "w": 800,
+     "ratio": 1,
+     "need": 3,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "t": "Alabbasi Soft",
+     "size": 12,
+     "w": 600,
+     "ratio": 1,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "t": "احجز الآن",
+     "size": 14,
+     "w": 800,
+     "ratio": 1.03,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgb(26, 26, 26)"
+    },
+    {
+     "t": "القائمة",
+     "size": 13.6,
+     "w": 700,
+     "ratio": 1.1,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgb(26, 26, 26)"
+    },
+    {
+     "t": "KEIF AL-DIAFA · LUXURY HOSPITALITY ·",
+     "size": 12,
+     "w": 400,
+     "ratio": 1.56,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(184, 134, 11, 0.3)"
+    },
+    {
+     "t": "KEIF AL-DIAFA · LUXURY HOSPITALITY",
+     "size": 9.92,
+     "w": 400,
+     "ratio": 2.31,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(184, 134, 11, 0.5)"
+    },
+    {
+     "t": "يمكنك سحب الشريط يدوياً لاستكشاف الم",
+     "size": 10,
+     "w": 400,
+     "ratio": 2.51,
+     "need": 4.5,
+     "pass": false,
+     "overImg": false,
+     "color": "rgba(245, 245, 219, 0.3)"
+    },
+    {
+     "t": "7033069720",
+     "size": 11,
+     "w": 400,
+     "ratio": 2.51,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.3)"
+    },
+    {
+     "t": "KEIF AL-DIAFA",
+     "size": 9.6,
+     "w": 400,
+     "ratio": 3.49,
+     "need": 4.5,
+     "pass": false,
+     "overImg": false,
+     "color": "rgba(197, 160, 89, 0.6)"
+    },
+    {
+     "t": "Developed by",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.56,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "مضيفون",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "مضيفات",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "سفرجي",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "سقاء",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "سواس",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "خطاط",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "رسام",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "فرقة شعبية",
+     "size": 12,
+     "w": 400,
+     "ratio": 3.57,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.4)"
+    },
+    {
+     "t": "صبابين قهوة جدة",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "صبابين قهوة الرياض",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "صبابين قهوة مكة المكرمة",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "صبابين قهوة المدينة المنورة",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "صبابين قهوة الدمام",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "صبابين قهوة الطائف",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "صبابين قهوة أبها",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "صبابين قهوة ينبع",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "قهوجيين ومباشرين جدة",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "قهوجيين ومباشرين الرياض",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "قهوجيين ومباشرين مكة المكرمة",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    },
+    {
+     "t": "قهوجيين ومباشرين المدينة المنورة",
+     "size": 12,
+     "w": 400,
+     "ratio": 4.2,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 245, 219, 0.45)"
+    }
+   ],
+   "sample": [
+    {
+     "t": "كيف الضيافة",
+     "size": 18.4,
+     "w": 800,
+     "ratio": 17.32,
+     "need": 4.5,
+     "pass": true,
+     "overImg": true,
+     "color": "rgb(245, 245, 220)"
+    },
+    {
+     "t": "KEIF AL-DIAFA",
+     "size": 9.6,
+     "w": 400,
+     "ratio": 3.49,
+     "need": 4.5,
+     "pass": false,
+     "overImg": false,
+     "color": "rgba(197, 160, 89, 0.6)"
+    },
+    {
+     "t": "واتساب",
+     "size": 12,
+     "w": 600,
+     "ratio": 8.63,
+     "need": 4.5,
+     "pass": true,
+     "overImg": false,
+     "color": "rgb(37, 211, 102)"
+    },
+    {
+     "t": "اتصال",
+     "size": 12,
+     "w": 600,
+     "ratio": 7.02,
+     "need": 4.5,
+     "pass": true,
+     "overImg": false,
+     "color": "rgb(197, 160, 89)"
+    },
+    {
+     "t": "القائمة",
+     "size": 13.6,
+     "w": 700,
+     "ratio": 1.1,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgb(26, 26, 26)"
+    }
+   ]
+  }
+ },
+ "keif|4g": {
+  "lcp": 1644,
+  "lcpEl": "P.text-text-primary mb-4 font-cairo gold-shine-text",
+  "cls": 0,
+  "shifts": [],
+  "longtasks": [
+   82,
+   242,
+   150,
+   206,
+   254,
+   55,
+   503
+  ],
+  "ttfb": 68,
+  "fcp": 1644,
+  "dcl": 1197,
+  "load": 6185,
+  "transfer": 547,
+  "reqs": 75
+ },
+ "asoul|fast": {
+  "lcp": 2112,
+  "lcpEl": "IMG.w-[100px] h-[100px] sm:w-[140px] sm:h-[140px]",
+  "cls": 0.0469,
+  "shifts": [
+   0.0462,
+   0.0006
+  ],
+  "longtasks": [
+   68
+  ],
+  "ttfb": 19,
+  "fcp": 596,
+  "dcl": 152,
+  "load": 660,
+  "transfer": 1590,
+  "reqs": 54,
+  "contrast": {
+   "total": 117,
+   "failCount": 6,
+   "fails": [
+    {
+     "t": "احجز ضيافتك",
+     "size": 12,
+     "w": 800,
+     "ratio": 1.04,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgb(20, 18, 16)"
+    },
+    {
+     "t": "تواصل عبر واتساب",
+     "size": 14,
+     "w": 800,
+     "ratio": 1.06,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgb(20, 18, 16)"
+    },
+    {
+     "t": "ASOUL AL-DIAFA · ROYAL HOSPITALITY ·",
+     "size": 12,
+     "w": 400,
+     "ratio": 1.91,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(197, 160, 89, 0.35)"
+    },
+    {
+     "t": "© 2026 أصول الضيافة. جميع الحقوق محف",
+     "size": 12,
+     "w": 400,
+     "ratio": 2.88,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(245, 239, 224, 0.35)"
+    },
+    {
+     "t": "ASOUL AL-DIAFA",
+     "size": 9.6,
+     "w": 400,
+     "ratio": 3.11,
+     "need": 4.5,
+     "pass": false,
+     "overImg": false,
+     "color": "rgba(197, 160, 89, 0.55)"
+    },
+    {
+     "t": "ASOUL AL-DIAFA · ROYAL HOSPITALITY",
+     "size": 9.92,
+     "w": 400,
+     "ratio": 3.11,
+     "need": 4.5,
+     "pass": false,
+     "overImg": true,
+     "color": "rgba(197, 160, 89, 0.55)"
+    }
+   ],
+   "sample": [
+    {
+     "t": "أصول الضيافة",
+     "size": 18.88,
+     "w": 700,
+     "ratio": 17.26,
+     "need": 3,
+     "pass": true,
+     "overImg": true,
+     "color": "rgb(245, 239, 224)"
+    },
+    {
+     "t": "ASOUL AL-DIAFA",
+     "size": 9.6,
+     "w": 400,
+     "ratio": 3.11,
+     "need": 4.5,
+     "pass": false,
+     "overImg": false,
+     "color": "rgba(197, 160, 89, 0.55)"
+    },
+    {
+     "t": "SINCE 2017",
+     "size": 10.4,
+     "w": 600,
+     "ratio": 11.8,
+     "need": 4.5,
+     "pass": true,
+     "overImg": false,
+     "color": "rgb(226, 198, 142)"
+    },
+    {
+     "t": "أصول الضيافة",
+     "size": 24,
+     "w": 700,
+     "ratio": 7.94,
+     "need": 3,
+     "pass": true,
+     "overImg": true,
+     "color": "rgb(197, 160, 89)"
+    },
+    {
+     "t": "نُحيي أصول الضيافة العربية بفريق صبّ",
+     "size": 13.6,
+     "w": 400,
+     "ratio": 12.3,
+     "need": 4.5,
+     "pass": true,
+     "overImg": false,
+     "color": "rgba(245, 239, 224, 0.85)"
+    }
+   ]
+  }
+ },
+ "asoul|4g": {
+  "lcp": 5692,
+  "lcpEl": "VIDEO.absolute inset-0 h-full w-full object-cover object",
+  "cls": 0.0462,
+  "shifts": [
+   0.0462
+  ],
+  "longtasks": [
+   363,
+   160,
+   51,
+   64,
+   76,
+   110,
+   50,
+   78,
+   52,
+   59,
+   56,
+   61
+  ],
+  "ttfb": 78,
+  "fcp": 2472,
+  "dcl": 2455,
+  "load": 8201,
+  "transfer": 1700,
+  "reqs": 62
+ }
+}

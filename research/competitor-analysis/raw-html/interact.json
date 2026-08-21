@@ -1,0 +1,120 @@
+{
+ "keif": {
+  "menu": [
+   {
+    "cls": "fixed inset-0 z-[60] bg-black/70 backdrop-blur-sm",
+    "w": 390,
+    "h": 844,
+    "z": "60",
+    "items": 0,
+    "txt": ""
+   },
+   {
+    "cls": "fixed bottom-0 left-0 right-0 z-[70] rounded-t-3xl overflow-hidden",
+    "w": 390,
+    "h": 548,
+    "z": "70",
+    "items": 6,
+    "txt": "كيف الضيافة | ⌂ | الرئيسية | ◈ | خدماتنا | ☕ | تقديماتنا | ◻ | معرض الأعمال | ✦ | من نحن | ✉ | تواصل معنا | Developed by Alabbasi Soft"
+   }
+  ],
+  "lightboxErr": "Locator.scroll_into_view_if_needed: Timeout 7965ms exceeded.\nCall log:\n  - attempting scroll into view action\n    2 × waiting for element to be stable\n      - element is not stable\n    - retrying scroll into view action\n    - waiting 20ms\n    2 × waiting for element to be stable\n      - element is not stable\n    - retrying scroll into view action\n      - waiting 100ms\n    12 × waiting for element to be stable\n       - element is not stable\n     - retrying scroll into view action\n       - waiting 500ms\n",
+  "scrollers": [
+   {
+    "cls": "relative overflow-hidden py-2 touch-pan-y",
+    "sw": 6600,
+    "cw": 358,
+    "children": 1
+   },
+   {
+    "cls": "relative overflow-hidden py-2 touch-pan-y",
+    "sw": 6600,
+    "cw": 358,
+    "children": 1
+   }
+  ],
+  "details": 0,
+  "buttonsAria": 1,
+  "headerOnScroll": {
+   "top": "none|0",
+   "scrolled": "matrix(1, 0, 0, 1, 0, -80)|-80|rgba(26, 26, 26, 0.95)"
+  }
+ },
+ "asoul": {
+  "menu": [
+   {
+    "cls": "osoul-menu__scrim",
+    "w": 390,
+    "h": 844,
+    "z": "80",
+    "items": 0,
+    "txt": ""
+   },
+   {
+    "cls": "osoul-menu__sheet",
+    "w": 390,
+    "h": 438,
+    "z": "81",
+    "items": 8,
+    "txt": "✕ | أصول الضيافة | ASOUL AL-DIAFA · SINCE 2017 | ⌂ | الرئيسية | ◈ | خدماتنا | ☕ | تقديماتنا | ◻ | معرض الأعمال | ✦ | من نحن | ✉ | تواصل معنا | واتساب | 0568997316 | اتصال | © 2026 أصول الضيافة · جميع الحقوق محفوظة"
+   }
+  ],
+  "lightboxErr": "Locator.click: Timeout 6000ms exceeded.\nCall log:\n  - waiting for locator(\"img\").nth(6)\n    - locator resolved to <img loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" draggable=\"false\" class=\"object-cover\" sizes=\"(max-width:640px) 176px, 288px\" src=\"/_next/image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=1920&q=75\" alt=\"مباشرو ضيافة سعوديون بالزي التراثي وطاولة شاي وقهوة في قاعة أفراح\" srcset=\"/_next/image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=48&q=75 48w, /_next/image?url=%2Fimag…/>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n      - waiting 100ms\n    11 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying click action\n       - waiting 500ms\n",
+  "scrollers": [
+   {
+    "cls": "relative h-screen min-h-[640px] max-h-[1000px] overflow-hidden",
+    "sw": 429,
+    "cw": 390,
+    "children": 6
+   },
+   {
+    "cls": "overflow-hidden touch-pan-y",
+    "sw": 16112,
+    "cw": 390,
+    "children": 1
+   },
+   {
+    "cls": "relative py-14 sm:py-24 px-4 bg-noir overflow-hidden aurora-section",
+    "sw": 585,
+    "cw": 390,
+    "children": 1
+   },
+   {
+    "cls": "relative py-12 sm:py-20 px-4 bg-noir overflow-hidden aurora-section",
+    "sw": 585,
+    "cw": 390,
+    "children": 1
+   },
+   {
+    "cls": "py-14 sm:py-24 px-4 relative overflow-hidden aurora-section",
+    "sw": 585,
+    "cw": 390,
+    "children": 1
+   },
+   {
+    "cls": "relative aspect-[4/3] overflow-hidden glint",
+    "sw": 672,
+    "cw": 356,
+    "children": 3
+   },
+   {
+    "cls": "relative aspect-[4/3] overflow-hidden glint",
+    "sw": 672,
+    "cw": 356,
+    "children": 3
+   },
+   {
+    "cls": "relative aspect-[4/3] overflow-hidden glint",
+    "sw": 672,
+    "cw": 356,
+    "children": 3
+   }
+  ],
+  "details": 0,
+  "buttonsAria": 1,
+  "headerOnScroll": {
+   "top": "matrix(1, 0, 0, 1, 0, -43.6489)|-43.648860931396484",
+   "scrolled": "matrix(1, 0, 0, 1, 0, -90)|-90|rgba(10, 10, 10, 0.92)"
+  }
+ }
+}

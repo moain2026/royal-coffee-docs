@@ -1,0 +1,3106 @@
+[
+{
+"f": "cold-drinks__arak-sous.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 118.0,
+"cat": "cold-drinks"
+},
+{
+"f": "cold-drinks__fresh-juice.webp",
+"w": 1850,
+"h": 2560,
+"fmt": "WEBP",
+"kb": 130.7,
+"cat": "cold-drinks"
+},
+{
+"f": "cold-drinks__iced-latte.webp",
+"w": 500,
+"h": 750,
+"fmt": "WEBP",
+"kb": 30.2,
+"cat": "cold-drinks"
+},
+{
+"f": "cold-drinks__karkade.webp",
+"w": 1024,
+"h": 768,
+"fmt": "WEBP",
+"kb": 55.3,
+"cat": "cold-drinks"
+},
+{
+"f": "cold-drinks__mojito.webp",
+"w": 340,
+"h": 509,
+"fmt": "WEBP",
+"kb": 23.8,
+"cat": "cold-drinks"
+},
+{
+"f": "cold-drinks__smoothie.webp",
+"w": 500,
+"h": 500,
+"fmt": "WEBP",
+"kb": 18.1,
+"cat": "cold-drinks"
+},
+{
+"f": "cold-drinks__sobia.webp",
+"w": 828,
+"h": 683,
+"fmt": "WEBP",
+"kb": 39.1,
+"cat": "cold-drinks"
+},
+{
+"f": "cold-drinks__tamarind.webp",
+"w": 800,
+"h": 1035,
+"fmt": "WEBP",
+"kb": 57.7,
+"cat": "cold-drinks"
+},
+{
+"f": "dates__dates-assorted.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 26.1,
+"cat": "dates"
+},
+{
+"f": "dates__dates-plain.webp",
+"w": 600,
+"h": 600,
+"fmt": "WEBP",
+"kb": 22.6,
+"cat": "dates"
+},
+{
+"f": "dates__khalas-sesame-tahini.webp",
+"w": 988,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 54.1,
+"cat": "dates"
+},
+{
+"f": "dates__khalas-stuffed.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 53.8,
+"cat": "dates"
+},
+{
+"f": "dates__palm-khalas-stuffed.webp",
+"w": 666,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 45.5,
+"cat": "dates"
+},
+{
+"f": "dates__palm-sukari-stuffed.webp",
+"w": 1280,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 87.4,
+"cat": "dates"
+},
+{
+"f": "dates__palm-sukari.webp",
+"w": 1108,
+"h": 1448,
+"fmt": "WEBP",
+"kb": 86.3,
+"cat": "dates"
+},
+{
+"f": "dates__stuffed-dates-2.webp",
+"w": 500,
+"h": 500,
+"fmt": "WEBP",
+"kb": 15.1,
+"cat": "dates"
+},
+{
+"f": "dates__stuffed-dates-3.webp",
+"w": 835,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 69.9,
+"cat": "dates"
+},
+{
+"f": "dates__stuffed-dates-5.webp",
+"w": 1092,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 61.7,
+"cat": "dates"
+},
+{
+"f": "dates__stuffed-dates.webp",
+"w": 478,
+"h": 823,
+"fmt": "WEBP",
+"kb": 79.9,
+"cat": "dates"
+},
+{
+"f": "dates__sukari-stuffed.webp",
+"w": 900,
+"h": 778,
+"fmt": "WEBP",
+"kb": 132.9,
+"cat": "dates"
+},
+{
+"f": "distributions__jeddah-vip-dates-dessert-gahwa-gift-tray.webp",
+"w": 768,
+"h": 1024,
+"fmt": "WEBP",
+"kb": 103.0,
+"cat": "distributions"
+},
+{
+"f": "distributions__ksa-dates-arabic-sweets-gahwa-distribution.webp",
+"w": 478,
+"h": 823,
+"fmt": "WEBP",
+"kb": 91.2,
+"cat": "distributions"
+},
+{
+"f": "distributions__riyadh-luxury-hospitality-gift-tray-qahwa-ceremony.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 97.8,
+"cat": "distributions"
+},
+{
+"f": "distributions__saudi-luxury-palm-date-sweets-distribution.webp",
+"w": 666,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 52.4,
+"cat": "distributions"
+},
+{
+"f": "distributions__saudi-vip-majlis-dates-gahwa-hospitality.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 99.1,
+"cat": "distributions"
+},
+{
+"f": "equipment__arabic-coffee-gahwa-ornate-glass-cup-set-equipment.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 67.6,
+"cat": "equipment"
+},
+{
+"f": "equipment__jeddah-luxury-ornate-tea-cup-saucer.webp",
+"w": 1080,
+"h": 837,
+"fmt": "WEBP",
+"kb": 79.0,
+"cat": "equipment"
+},
+{
+"f": "equipment__jeddah-vip-majlis-golden-arabic-coffee-stand.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 114.0,
+"cat": "equipment"
+},
+{
+"f": "equipment__ksa-golden-buffet-tray-glass-cups-hospitality.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 116.7,
+"cat": "equipment"
+},
+{
+"f": "equipment__ksa-luxury-qahwa-golden-glass-cup-stand-majlis.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 100.3,
+"cat": "equipment"
+},
+{
+"f": "equipment__luxury-clear-ribbed-glass-cup-saucer-hospitality.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 50.2,
+"cat": "equipment"
+},
+{
+"f": "equipment__luxury-clear-stemmed-goblet-glass-hospitality.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 37.8,
+"cat": "equipment"
+},
+{
+"f": "equipment__luxury-faceted-tea-cup-transparent-hospitality.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 55.9,
+"cat": "equipment"
+},
+{
+"f": "equipment__luxury-saudi-white-coffee-cup-saucer.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 39.5,
+"cat": "equipment"
+},
+{
+"f": "equipment__riyadh-luxury-arabic-coffee-glass-cup-dessert-table.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 82.7,
+"cat": "equipment"
+},
+{
+"f": "equipment__royal-golden-dallah-coffee-pot-saudi-hospitality.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 35.0,
+"cat": "equipment"
+},
+{
+"f": "equipment__royal-saudi-gold-qahwa-dates-service.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 121.8,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-arabic-coffee-emblem-handled-mug-golden-hospitality.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 46.1,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-arabic-coffee-vip-golden-cup-stand-majlis.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 121.5,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-ceremonial-golden-tray-white-cups-hospitality.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 41.0,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-clear-cup-saucer-golden-stripes-hospitality.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 47.5,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-gold-palm-gahwa-cups-set.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 57.6,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-golden-striped-tea-cup-saucer-hospitality.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 43.3,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-hospitality-glass-tea-set-equipment.webp",
+"w": 4160,
+"h": 2777,
+"fmt": "WEBP",
+"kb": 144.6,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-luxury-gold-rimmed-emblem-coffee-pot.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 50.5,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-luxury-hospitality-white-porcelain-cup-saucer.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 20.3,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-luxury-ornate-tea-glass-golden-silver-hospitality.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 57.8,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-luxury-silver-dallah-arabic-coffee-equipment.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 50.8,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-silver-dallah-serveware-luxury-hospitality.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 27.9,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-traditional-ribbed-glass-tea-cup-set.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 36.4,
+"cat": "equipment"
+},
+{
+"f": "equipment__saudi-vip-hospitality-golden-coffee-cup-stand-event.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 60.7,
+"cat": "equipment"
+},
+{
+"f": "equipment__traditional-saudi-clear-glass-qahwa-cup.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 69.0,
+"cat": "equipment"
+},
+{
+"f": "equipment__vip-saudi-golden-dallah-dates-table.webp",
+"w": 678,
+"h": 678,
+"fmt": "WEBP",
+"kb": 44.7,
+"cat": "equipment"
+},
+{
+"f": "events__conference-catering-hospitality-staff-medical-college-exhibition.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 110.8,
+"cat": "events"
+},
+{
+"f": "events__conference-catering-saudi-electricity-company-dates-tray-luxury.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 87.2,
+"cat": "events"
+},
+{
+"f": "events__conference-catering-saudi-hosts-vip-reception-dallah-albaraka.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 59.0,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-almana-medical-group-arabic-coffee-ceremony.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 48.2,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-dallah-hajj-transport-ceremonial-coffee.webp",
+"w": 731,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 65.7,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-exhibition-makkiyoon-traditional-attire-qahwa.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 98.7,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-formal-reception-umm-al-qura-university-saudi-hosts.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 96.4,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-hospitality-staff-formal-reception-saudi-hosts.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 108.5,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-indoor-cybersecurity-awareness-ceremonial-coffee.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 140.7,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-qahwa-service-luxury-catering-basma-emaar.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 99.7,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-saudi-host-qahwa-office-reception-traditional.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 97.1,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-vip-reception-dallah-albaraka-ceremonial-coffee.webp",
+"w": 719,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 80.5,
+"cat": "events"
+},
+{
+"f": "events__corporate-event-vip-suzuki-showroom-arabic-coffee-ceremony.webp",
+"w": 591,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 81.4,
+"cat": "events"
+},
+{
+"f": "events__exhibition-alrifadah-pilgrims-services-arabic-coffee-ceremony.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 66.2,
+"cat": "events"
+},
+{
+"f": "events__exhibition-hospitality-rawahil-al-mashaer-arabic-coffee-ceremony.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 79.1,
+"cat": "events"
+},
+{
+"f": "events__exhibition-hospitality-staff-almadina-hotel-resorts-saudi-event.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 125.5,
+"cat": "events"
+},
+{
+"f": "events__exhibition-saudi-event-nayifat-financing-ceremonial-coffee.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 61.8,
+"cat": "events"
+},
+{
+"f": "events__exhibition-saudi-hosts-amak-minerals-arabic-coffee-ceremony.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 77.2,
+"cat": "events"
+},
+{
+"f": "events__exhibition-vip-reception-foot-locker-coffee-kiosk.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 102.7,
+"cat": "events"
+},
+{
+"f": "events__expo-jimny-ksa-club-saudi-hosts-gift-presentation.webp",
+"w": 576,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 62.6,
+"cat": "events"
+},
+{
+"f": "events__formal-reception-government-event-majad-booth-arabic-coffee.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 122.9,
+"cat": "events"
+},
+{
+"f": "events__formal-reception-hospitality-staff-york-arabic-coffee-ceremony.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 86.3,
+"cat": "events"
+},
+{
+"f": "events__formal-reception-indoor-event-saudi-hosts-luxury-catering.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 99.1,
+"cat": "events"
+},
+{
+"f": "events__formal-reception-saudi-hosts-al-amjaad-office-traditional.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 76.8,
+"cat": "events"
+},
+{
+"f": "events__gala-dinner-vip-reception-royal-protocol-marble-luxury.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 118.6,
+"cat": "events"
+},
+{
+"f": "events__government-event-hospitality-staff-ceremonial-coffee-ministry-transport.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 108.8,
+"cat": "events"
+},
+{
+"f": "events__government-event-ministry-of-media-official-ceremony.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 58.7,
+"cat": "events"
+},
+{
+"f": "events__government-event-official-ceremony-madinah-municipality-arabic-coffee.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 131.2,
+"cat": "events"
+},
+{
+"f": "events__government-event-official-ceremony-saudi-electricity-luxury-catering.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 89.1,
+"cat": "events"
+},
+{
+"f": "events__government-event-official-ceremony-saudi-hosts-grand-opening.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 137.2,
+"cat": "events"
+},
+{
+"f": "events__hotel-event-dallah-taibah-luxury-catering-qahwa-service.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 136.0,
+"cat": "events"
+},
+{
+"f": "events__indoor-event-exhibition-york-booth-qahwa-service.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 124.2,
+"cat": "events"
+},
+{
+"f": "events__indoor-event-luxury-catering-ceremonial-coffee-exhibition-reception.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 78.0,
+"cat": "events"
+},
+{
+"f": "events__indoor-event-new-balance-foot-locker-coffee-booth.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 112.9,
+"cat": "events"
+},
+{
+"f": "events__indoor-event-saudi-hosts-bisht-qahwa-service-traditional.webp",
+"w": 963,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 137.5,
+"cat": "events"
+},
+{
+"f": "events__indoor-event-traditional-attire-ceremonial-coffee-female-guest.webp",
+"w": 810,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 49.3,
+"cat": "events"
+},
+{
+"f": "events__jeddah-event-formal-reception-private-aviation-qahwa-service.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 78.2,
+"cat": "events"
+},
+{
+"f": "events__jeddah-event-marble-hall-osus-alinsha-vip-reception.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 106.2,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-arabic-coffee-ceremony-masked-host-exhibition.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 115.7,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-corporate-event-takween-al-watan-ceremonial-coffee.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 95.7,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-exhibition-dallah-albarka-dates-tray-ceremonial.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 62.6,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-exhibition-hafil-pink-luxury-catering.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 97.0,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-exhibition-hospitality-staff-hajj-conference.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 137.3,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-exhibition-luxury-catering-food-booth-dates-tray.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 40.8,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-luxury-catering-mcdc-conference-ceremonial-coffee.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 89.0,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-official-ceremony-turkish-pilgrims-office-luxury.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 86.8,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-qahwa-service-corporate-event-tawkeel.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 109.6,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-qahwa-service-hospitality-staff-arabic-coffee-ceremony.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 141.6,
+"cat": "events"
+},
+{
+"f": "events__ksa-event-vip-reception-arabic-coffee-flyadeal-corporate.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 48.9,
+"cat": "events"
+},
+{
+"f": "events__luxury-catering-arabic-coffee-ceremony-gala-dinner-indoor.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 124.3,
+"cat": "events"
+},
+{
+"f": "events__luxury-catering-foot-locker-sneaker-host-ceremonial.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 71.9,
+"cat": "events"
+},
+{
+"f": "events__luxury-catering-saudi-hosts-glory-of-luxury-indoor-event.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 88.1,
+"cat": "events"
+},
+{
+"f": "events__majlis-qahwa-service-saudi-event-camel-decor.webp",
+"w": 1284,
+"h": 2199,
+"fmt": "WEBP",
+"kb": 144.9,
+"cat": "events"
+},
+{
+"f": "events__majlis-traditional-attire-dates-tower-ceremonial-coffee-display.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 143.1,
+"cat": "events"
+},
+{
+"f": "events__marble-hall-makkah-hotel-towers-saudi-hosts-dates-tray.webp",
+"w": 723,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 50.2,
+"cat": "events"
+},
+{
+"f": "events__official-ceremony-grand-opening-saudi-hosts-red-backdrop.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 140.1,
+"cat": "events"
+},
+{
+"f": "events__official-ceremony-hospitality-staff-umm-al-qura-exhibition.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 140.5,
+"cat": "events"
+},
+{
+"f": "events__official-ceremony-saudi-hosts-traditional-attire-vip-reception.webp",
+"w": 1600,
+"h": 900,
+"fmt": "WEBP",
+"kb": 128.6,
+"cat": "events"
+},
+{
+"f": "events__outdoor-event-nahda-park-arabic-coffee-formal-reception.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 90.3,
+"cat": "events"
+},
+{
+"f": "events__outdoor-event-tourism-booth-expo-saudi-host-coffee-set.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 140.7,
+"cat": "events"
+},
+{
+"f": "events__qahwa-service-bon-cafe-arabic-coffee-ceremony-corporate.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 91.5,
+"cat": "events"
+},
+{
+"f": "events__riyadh-event-vip-reception-alinma-booth-ceremonial-coffee.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 68.0,
+"cat": "events"
+},
+{
+"f": "events__royal-protocol-vip-reception-makkah-hotel-towers-majlis.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 114.7,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-conference-catering-bci-counter-ceremonial-coffee.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 129.1,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-conference-catering-dareen-travel-agency-indoor.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 82.7,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-corporate-al-safir-masked-hospitality.webp",
+"w": 1280,
+"h": 963,
+"fmt": "WEBP",
+"kb": 88.7,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-formal-reception-makkah-themed-exhibition.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 85.4,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-hifawa-vip-traditional-attire-qahwa-service.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 75.9,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-luxury-catering-hospitality-staff-saja-exhibition.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 99.9,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-qahwa-service-hospitality-staff-exhibition-booth.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 115.2,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-arabic-coffee-ceremony-camel-decor-indoor.webp",
+"w": 638,
+"h": 570,
+"fmt": "WEBP",
+"kb": 34.1,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-reception-arabic-coffee-masked-host-exhibition.webp",
+"w": 1024,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 52.5,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-reception-aviation-booth-arabic-coffee-ceremony.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 126.0,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-reception-bolt-exhibition-qahwa-service.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 116.6,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-reception-luxury-catering-majlis-traditional-attire.webp",
+"w": 1280,
+"h": 960,
+"fmt": "WEBP",
+"kb": 137.5,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-reception-luxury-retail-traditional-attire.webp",
+"w": 1280,
+"h": 963,
+"fmt": "WEBP",
+"kb": 54.2,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-reception-makkah-halal-forum-coffee-lounge.webp",
+"w": 1280,
+"h": 960,
+"fmt": "WEBP",
+"kb": 81.0,
+"cat": "events"
+},
+{
+"f": "events__saudi-event-vip-reception-suzuki-exhibition-arabic-coffee.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 75.7,
+"cat": "events"
+},
+{
+"f": "events__saudi-hosts-ceremonial-coffee-expo-makkah-hotel-booth.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 92.0,
+"cat": "events"
+},
+{
+"f": "events__vip-reception-corporate-event-aljar-marina-qahwa-service.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 144.0,
+"cat": "events"
+},
+{
+"f": "events__vip-reception-luxury-catering-menswear-boutique-host.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 104.5,
+"cat": "events"
+},
+{
+"f": "events__vip-reception-luxury-catering-millennium-hotels-golden-dallah.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 112.8,
+"cat": "events"
+},
+{
+"f": "fruits__saudi-carved-watermelon-vip-event-fruit-display.webp",
+"w": 1200,
+"h": 900,
+"fmt": "WEBP",
+"kb": 142.3,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-fresh-figs-luxury-hospitality-fruit.webp",
+"w": 970,
+"h": 646,
+"fmt": "WEBP",
+"kb": 59.3,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-fresh-mango-cubes-luxury-hospitality-fruit.webp",
+"w": 1200,
+"h": 799,
+"fmt": "WEBP",
+"kb": 50.5,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-fresh-pineapple-slices-premium-catering-fruit.webp",
+"w": 1200,
+"h": 1179,
+"fmt": "WEBP",
+"kb": 188.8,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-fresh-pomegranate-premium-catering-fruit.webp",
+"w": 969,
+"h": 1024,
+"fmt": "WEBP",
+"kb": 117.5,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-fresh-sliced-kiwi-luxury-hospitality-fruit.webp",
+"w": 1200,
+"h": 799,
+"fmt": "WEBP",
+"kb": 199.9,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-fresh-strawberries-luxury-hospitality-fruit.webp",
+"w": 1200,
+"h": 900,
+"fmt": "WEBP",
+"kb": 208.3,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-mixed-berries-bowl-premium-catering-fruit.webp",
+"w": 1200,
+"h": 1620,
+"fmt": "WEBP",
+"kb": 244.9,
+"cat": "fruits"
+},
+{
+"f": "fruits__saudi-red-green-grapes-premium-catering-fruit.webp",
+"w": 1200,
+"h": 1619,
+"fmt": "WEBP",
+"kb": 243.7,
+"cat": "fruits"
+},
+{
+"f": "hero__hero-desktop.webp",
+"w": 3168,
+"h": 1344,
+"fmt": "WEBP",
+"kb": 231.7,
+"cat": "hero"
+},
+{
+"f": "hero__hero-mobile.webp",
+"w": 1536,
+"h": 2784,
+"fmt": "WEBP",
+"kb": 184.6,
+"cat": "hero"
+},
+{
+"f": "hot-drinks__cappuccino.webp",
+"w": 1200,
+"h": 1229,
+"fmt": "WEBP",
+"kb": 115.5,
+"cat": "hot-drinks"
+},
+{
+"f": "hot-drinks__ginger-pineapple.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 139.1,
+"cat": "hot-drinks"
+},
+{
+"f": "hot-drinks__green-tea.webp",
+"w": 1200,
+"h": 1139,
+"fmt": "WEBP",
+"kb": 148.7,
+"cat": "hot-drinks"
+},
+{
+"f": "hot-drinks__karak-tea.webp",
+"w": 807,
+"h": 639,
+"fmt": "WEBP",
+"kb": 66.0,
+"cat": "hot-drinks"
+},
+{
+"f": "hot-drinks__red-tea.webp",
+"w": 1200,
+"h": 1039,
+"fmt": "WEBP",
+"kb": 152.7,
+"cat": "hot-drinks"
+},
+{
+"f": "hot-drinks__sahlab.webp",
+"w": 807,
+"h": 632,
+"fmt": "WEBP",
+"kb": 62.9,
+"cat": "hot-drinks"
+},
+{
+"f": "hot-drinks__turkish-coffee.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 135.7,
+"cat": "hot-drinks"
+},
+{
+"f": "nuts__saudi-cinnamon-nuts-noix-luxury-hospitality-display.webp",
+"w": 1200,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 47.3,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-cinnamon-roasted-nuts-noix-premium-luxury.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 216.6,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-noix-fine-food-chocolate-butter-granola-trio.webp",
+"w": 1200,
+"h": 1445,
+"fmt": "WEBP",
+"kb": 151.3,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-noix-granola-premium-mixed-nuts-collage.webp",
+"w": 1200,
+"h": 1209,
+"fmt": "WEBP",
+"kb": 137.7,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-noix-luxury-granola-zaatar-cinnamon-nuts-range.webp",
+"w": 1200,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 57.5,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-roasted-hazelnut-zaatar-nuts-noix-premium.webp",
+"w": 1200,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 37.0,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-salted-caramel-granola-noix-premium.webp",
+"w": 1200,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 43.4,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-salted-caramel-nuts-noix-luxury-premium.webp",
+"w": 1200,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 61.6,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-super-q-granola-mixed-nuts-oats-luxury.webp",
+"w": 1200,
+"h": 1500,
+"fmt": "WEBP",
+"kb": 73.8,
+"cat": "nuts"
+},
+{
+"f": "nuts__saudi-zaatar-granola-noix-luxury-arabian-flavor.webp",
+"w": 1200,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 57.3,
+"cat": "nuts"
+},
+{
+"f": "partners__01_Olayan_Group.webp",
+"w": 195,
+"h": 195,
+"fmt": "WEBP",
+"kb": 2.9,
+"cat": "partners"
+},
+{
+"f": "partners__02_Schneider_Electric.webp",
+"w": 200,
+"h": 133,
+"fmt": "WEBP",
+"kb": 1.4,
+"cat": "partners"
+},
+{
+"f": "partners__03_Najeeb_Auto_Suzuki.webp",
+"w": 200,
+"h": 68,
+"fmt": "WEBP",
+"kb": 4.5,
+"cat": "partners"
+},
+{
+"f": "partners__04_WSM_Digital.webp",
+"w": 200,
+"h": 105,
+"fmt": "WEBP",
+"kb": 2.1,
+"cat": "partners"
+},
+{
+"f": "partners__05_Mokab.webp",
+"w": 200,
+"h": 68,
+"fmt": "WEBP",
+"kb": 2.1,
+"cat": "partners"
+},
+{
+"f": "partners__06_MyClinic.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 4.3,
+"cat": "partners"
+},
+{
+"f": "partners__07_Al_Ahli_FC.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 7.3,
+"cat": "partners"
+},
+{
+"f": "partners__08_Benchmark.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 3.7,
+"cat": "partners"
+},
+{
+"f": "partners__09_Fuchs_KSA.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 2.6,
+"cat": "partners"
+},
+{
+"f": "partners__10_Milia_Travel.webp",
+"w": 200,
+"h": 107,
+"fmt": "WEBP",
+"kb": 8.1,
+"cat": "partners"
+},
+{
+"f": "partners__11_Al_Mousa_Group.webp",
+"w": 200,
+"h": 96,
+"fmt": "WEBP",
+"kb": 3.6,
+"cat": "partners"
+},
+{
+"f": "partners__12_Damanat.webp",
+"w": 200,
+"h": 93,
+"fmt": "WEBP",
+"kb": 2.7,
+"cat": "partners"
+},
+{
+"f": "partners__13_Daam_Broker.webp",
+"w": 200,
+"h": 141,
+"fmt": "WEBP",
+"kb": 8.7,
+"cat": "partners"
+},
+{
+"f": "partners__14_Munera_Alessa.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 2.3,
+"cat": "partners"
+},
+{
+"f": "partners__15_Somer.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 8.1,
+"cat": "partners"
+},
+{
+"f": "partners__16_Napco_National.webp",
+"w": 195,
+"h": 195,
+"fmt": "WEBP",
+"kb": 6.8,
+"cat": "partners"
+},
+{
+"f": "partners__17_Saudi_Binladen_Group.webp",
+"w": 200,
+"h": 104,
+"fmt": "WEBP",
+"kb": 9.2,
+"cat": "partners"
+},
+{
+"f": "partners__18_Glamera.webp",
+"w": 200,
+"h": 113,
+"fmt": "WEBP",
+"kb": 3.2,
+"cat": "partners"
+},
+{
+"f": "partners__19_Sharq_Jeddah_Association.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 6.5,
+"cat": "partners"
+},
+{
+"f": "partners__20_Olayan_Group_Alt.webp",
+"w": 195,
+"h": 195,
+"fmt": "WEBP",
+"kb": 2.9,
+"cat": "partners"
+},
+{
+"f": "partners__21_Najeeb_Auto_Suzuki_Alt.webp",
+"w": 200,
+"h": 68,
+"fmt": "WEBP",
+"kb": 4.3,
+"cat": "partners"
+},
+{
+"f": "partners__22_WSM_Digital_Alt.webp",
+"w": 200,
+"h": 105,
+"fmt": "WEBP",
+"kb": 2.1,
+"cat": "partners"
+},
+{
+"f": "partners__23_Benchmark_Strategy.webp",
+"w": 200,
+"h": 79,
+"fmt": "WEBP",
+"kb": 3.6,
+"cat": "partners"
+},
+{
+"f": "partners__24_Fuchs_KSA_Alt.webp",
+"w": 200,
+"h": 93,
+"fmt": "WEBP",
+"kb": 5.7,
+"cat": "partners"
+},
+{
+"f": "partners__25_Damanat_Alt.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 2.0,
+"cat": "partners"
+},
+{
+"f": "partners__26_Napco_National_Alt.webp",
+"w": 200,
+"h": 67,
+"fmt": "WEBP",
+"kb": 7.5,
+"cat": "partners"
+},
+{
+"f": "partners__27_Binladin_Holding.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 1.9,
+"cat": "partners"
+},
+{
+"f": "partners__28_Glamera_Alt.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 5.1,
+"cat": "partners"
+},
+{
+"f": "partners__29_Bahja_Events.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 6.1,
+"cat": "partners"
+},
+{
+"f": "partners__30_Hamat_Leading.webp",
+"w": 160,
+"h": 190,
+"fmt": "WEBP",
+"kb": 7.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-1.webp",
+"w": 700,
+"h": 700,
+"fmt": "WEBP",
+"kb": 20.4,
+"cat": "partners"
+},
+{
+"f": "partners__partner-10.webp",
+"w": 400,
+"h": 400,
+"fmt": "WEBP",
+"kb": 11.0,
+"cat": "partners"
+},
+{
+"f": "partners__partner-11.webp",
+"w": 300,
+"h": 300,
+"fmt": "WEBP",
+"kb": 3.9,
+"cat": "partners"
+},
+{
+"f": "partners__partner-12.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 2.4,
+"cat": "partners"
+},
+{
+"f": "partners__partner-13.webp",
+"w": 426,
+"h": 266,
+"fmt": "WEBP",
+"kb": 7.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-14.webp",
+"w": 720,
+"h": 720,
+"fmt": "WEBP",
+"kb": 28.7,
+"cat": "partners"
+},
+{
+"f": "partners__partner-15.webp",
+"w": 721,
+"h": 741,
+"fmt": "WEBP",
+"kb": 14.1,
+"cat": "partners"
+},
+{
+"f": "partners__partner-16.webp",
+"w": 1080,
+"h": 1350,
+"fmt": "WEBP",
+"kb": 10.2,
+"cat": "partners"
+},
+{
+"f": "partners__partner-17.webp",
+"w": 1080,
+"h": 1348,
+"fmt": "WEBP",
+"kb": 17.0,
+"cat": "partners"
+},
+{
+"f": "partners__partner-18.webp",
+"w": 812,
+"h": 748,
+"fmt": "WEBP",
+"kb": 16.7,
+"cat": "partners"
+},
+{
+"f": "partners__partner-19.webp",
+"w": 710,
+"h": 532,
+"fmt": "WEBP",
+"kb": 24.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-2.webp",
+"w": 630,
+"h": 630,
+"fmt": "WEBP",
+"kb": 9.1,
+"cat": "partners"
+},
+{
+"f": "partners__partner-20.webp",
+"w": 1080,
+"h": 761,
+"fmt": "WEBP",
+"kb": 21.4,
+"cat": "partners"
+},
+{
+"f": "partners__partner-21.webp",
+"w": 200,
+"h": 200,
+"fmt": "WEBP",
+"kb": 3.6,
+"cat": "partners"
+},
+{
+"f": "partners__partner-22.webp",
+"w": 1080,
+"h": 1128,
+"fmt": "WEBP",
+"kb": 13.3,
+"cat": "partners"
+},
+{
+"f": "partners__partner-23.webp",
+"w": 1080,
+"h": 1068,
+"fmt": "WEBP",
+"kb": 18.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-24.webp",
+"w": 1080,
+"h": 978,
+"fmt": "WEBP",
+"kb": 10.1,
+"cat": "partners"
+},
+{
+"f": "partners__partner-25.webp",
+"w": 1080,
+"h": 735,
+"fmt": "WEBP",
+"kb": 9.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-26.webp",
+"w": 1080,
+"h": 1039,
+"fmt": "WEBP",
+"kb": 23.3,
+"cat": "partners"
+},
+{
+"f": "partners__partner-27.webp",
+"w": 928,
+"h": 412,
+"fmt": "WEBP",
+"kb": 14.6,
+"cat": "partners"
+},
+{
+"f": "partners__partner-28.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 21.2,
+"cat": "partners"
+},
+{
+"f": "partners__partner-29.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 15.2,
+"cat": "partners"
+},
+{
+"f": "partners__partner-3.webp",
+"w": 700,
+"h": 700,
+"fmt": "WEBP",
+"kb": 33.9,
+"cat": "partners"
+},
+{
+"f": "partners__partner-30.webp",
+"w": 700,
+"h": 700,
+"fmt": "WEBP",
+"kb": 18.7,
+"cat": "partners"
+},
+{
+"f": "partners__partner-31.webp",
+"w": 522,
+"h": 318,
+"fmt": "WEBP",
+"kb": 9.2,
+"cat": "partners"
+},
+{
+"f": "partners__partner-32.webp",
+"w": 230,
+"h": 128,
+"fmt": "WEBP",
+"kb": 2.7,
+"cat": "partners"
+},
+{
+"f": "partners__partner-33.webp",
+"w": 411,
+"h": 122,
+"fmt": "WEBP",
+"kb": 4.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-34.webp",
+"w": 323,
+"h": 206,
+"fmt": "WEBP",
+"kb": 5.1,
+"cat": "partners"
+},
+{
+"f": "partners__partner-35.webp",
+"w": 225,
+"h": 225,
+"fmt": "WEBP",
+"kb": 2.6,
+"cat": "partners"
+},
+{
+"f": "partners__partner-36.webp",
+"w": 1049,
+"h": 680,
+"fmt": "WEBP",
+"kb": 18.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-4.webp",
+"w": 700,
+"h": 700,
+"fmt": "WEBP",
+"kb": 17.2,
+"cat": "partners"
+},
+{
+"f": "partners__partner-5.webp",
+"w": 700,
+"h": 700,
+"fmt": "WEBP",
+"kb": 12.2,
+"cat": "partners"
+},
+{
+"f": "partners__partner-6.webp",
+"w": 1000,
+"h": 1000,
+"fmt": "WEBP",
+"kb": 29.5,
+"cat": "partners"
+},
+{
+"f": "partners__partner-7.webp",
+"w": 606,
+"h": 412,
+"fmt": "WEBP",
+"kb": 15.9,
+"cat": "partners"
+},
+{
+"f": "partners__partner-8.webp",
+"w": 1080,
+"h": 1073,
+"fmt": "WEBP",
+"kb": 15.7,
+"cat": "partners"
+},
+{
+"f": "partners__partner-9.webp",
+"w": 387,
+"h": 313,
+"fmt": "WEBP",
+"kb": 5.0,
+"cat": "partners"
+},
+{
+"f": "pastry__appetizers.webp",
+"w": 720,
+"h": 720,
+"fmt": "WEBP",
+"kb": 45.8,
+"cat": "pastry"
+},
+{
+"f": "pastry__arabic-pastry.webp",
+"w": 720,
+"h": 900,
+"fmt": "WEBP",
+"kb": 102.7,
+"cat": "pastry"
+},
+{
+"f": "pastry__assorted-pastry.webp",
+"w": 736,
+"h": 1103,
+"fmt": "WEBP",
+"kb": 98.3,
+"cat": "pastry"
+},
+{
+"f": "pastry__fruit-pie.webp",
+"w": 575,
+"h": 653,
+"fmt": "WEBP",
+"kb": 28.0,
+"cat": "pastry"
+},
+{
+"f": "pastry__samosa.webp",
+"w": 736,
+"h": 736,
+"fmt": "WEBP",
+"kb": 39.0,
+"cat": "pastry"
+},
+{
+"f": "sandwiches__saudi-catering-chicken-cheese-sandwich-long-roll.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 62.1,
+"cat": "sandwiches"
+},
+{
+"f": "sandwiches__saudi-catering-grilled-chicken-sandwich-lettuce-cheese.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 45.3,
+"cat": "sandwiches"
+},
+{
+"f": "sandwiches__saudi-catering-smoked-turkey-cheese-tomato-sandwich.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 52.8,
+"cat": "sandwiches"
+},
+{
+"f": "sandwiches__saudi-catering-tuna-salad-sandwich-long-roll.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 67.1,
+"cat": "sandwiches"
+},
+{
+"f": "sandwiches__saudi-catering-tuna-sandwich-sesame-bun.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 52.7,
+"cat": "sandwiches"
+},
+{
+"f": "sandwiches__saudi-catering-turkey-cheese-tomato-long-sandwich.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 57.1,
+"cat": "sandwiches"
+},
+{
+"f": "sandwiches__saudi-catering-turkey-sandwich-soft-roll-tomato.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 40.8,
+"cat": "sandwiches"
+},
+{
+"f": "services__artistic__artist__artist-1.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 112.2,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-10.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 264.0,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-11.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 166.2,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-2.webp",
+"w": 828,
+"h": 1073,
+"fmt": "WEBP",
+"kb": 42.1,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-3.webp",
+"w": 828,
+"h": 758,
+"fmt": "WEBP",
+"kb": 18.8,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-4.webp",
+"w": 828,
+"h": 748,
+"fmt": "WEBP",
+"kb": 50.0,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-5.webp",
+"w": 828,
+"h": 928,
+"fmt": "WEBP",
+"kb": 34.6,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-6.webp",
+"w": 828,
+"h": 817,
+"fmt": "WEBP",
+"kb": 60.0,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-7.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 156.4,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-8.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 264.0,
+"cat": "services"
+},
+{
+"f": "services__artistic__artist__artist-9.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 166.2,
+"cat": "services"
+},
+{
+"f": "services__artistic__buffet__buffet-1.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 266.3,
+"cat": "services"
+},
+{
+"f": "services__artistic__buffet__buffet-2.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 253.0,
+"cat": "services"
+},
+{
+"f": "services__artistic__buffet__buffet-3.webp",
+"w": 899,
+"h": 1599,
+"fmt": "WEBP",
+"kb": 178.4,
+"cat": "services"
+},
+{
+"f": "services__artistic__counter__counter-1.webp",
+"w": 1200,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 324.7,
+"cat": "services"
+},
+{
+"f": "services__artistic__counter__counter-2.webp",
+"w": 4000,
+"h": 1756,
+"fmt": "WEBP",
+"kb": 462.2,
+"cat": "services"
+},
+{
+"f": "services__artistic__folkband__folkband-1.webp",
+"w": 1280,
+"h": 960,
+"fmt": "WEBP",
+"kb": 245.5,
+"cat": "services"
+},
+{
+"f": "services__artistic__folkband__folkband-2.webp",
+"w": 900,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 275.4,
+"cat": "services"
+},
+{
+"f": "services__artistic__heritage-tent__tent-1.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 214.4,
+"cat": "services"
+},
+{
+"f": "services__artistic__heritage-tent__tent-2.webp",
+"w": 1280,
+"h": 960,
+"fmt": "WEBP",
+"kb": 181.6,
+"cat": "services"
+},
+{
+"f": "services__artistic__heritage-tent__tent-3.webp",
+"w": 1280,
+"h": 960,
+"fmt": "WEBP",
+"kb": 211.3,
+"cat": "services"
+},
+{
+"f": "services__artistic__heritage-tent__tent-4.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 173.9,
+"cat": "services"
+},
+{
+"f": "services__artistic__mobile-table__table-1.webp",
+"w": 1600,
+"h": 900,
+"fmt": "WEBP",
+"kb": 122.4,
+"cat": "services"
+},
+{
+"f": "services__artistic__mobile-table__table-2.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 169.4,
+"cat": "services"
+},
+{
+"f": "services__artistic__mobile-table__table-3.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 77.1,
+"cat": "services"
+},
+{
+"f": "services__artistic__mobile-table__table-4.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 198.2,
+"cat": "services"
+},
+{
+"f": "services__artistic__mobile-table__table-5.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 176.9,
+"cat": "services"
+},
+{
+"f": "services__artistic__mobile-table__table-6.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 223.8,
+"cat": "services"
+},
+{
+"f": "services__artistic__photo-booth__photo-booth-1.webp",
+"w": 900,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 177.6,
+"cat": "services"
+},
+{
+"f": "services__artistic__photo-booth__photo-booth-2.webp",
+"w": 900,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 123.3,
+"cat": "services"
+},
+{
+"f": "services__artistic__photo-booth__photo-booth-3.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 141.7,
+"cat": "services"
+},
+{
+"f": "services__artistic__photo-booth__photo-booth-4.webp",
+"w": 853,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 99.3,
+"cat": "services"
+},
+{
+"f": "services__artistic__photo-booth__photo-booth-5.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 169.5,
+"cat": "services"
+},
+{
+"f": "services__artistic__photo-booth__photo-booth-6.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 179.9,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-1.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 44.9,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-2.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 74.5,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-3.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 68.4,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-4.webp",
+"w": 896,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 59.5,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-5.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 34.9,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-6.webp",
+"w": 768,
+"h": 1112,
+"fmt": "WEBP",
+"kb": 49.4,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-7.webp",
+"w": 768,
+"h": 1091,
+"fmt": "WEBP",
+"kb": 73.5,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-8.webp",
+"w": 768,
+"h": 1060,
+"fmt": "WEBP",
+"kb": 33.0,
+"cat": "services"
+},
+{
+"f": "services__female-services__female-main-bg.webp",
+"w": 896,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 173.9,
+"cat": "services"
+},
+{
+"f": "services__female__cleaning__cleaning-f-1.webp",
+"w": 1024,
+"h": 1024,
+"fmt": "WEBP",
+"kb": 170.1,
+"cat": "services"
+},
+{
+"f": "services__female__cleaning__cleaning-f-2.webp",
+"w": 816,
+"h": 1296,
+"fmt": "WEBP",
+"kb": 37.3,
+"cat": "services"
+},
+{
+"f": "services__female__female-1.webp",
+"w": 1024,
+"h": 1024,
+"fmt": "WEBP",
+"kb": 170.1,
+"cat": "services"
+},
+{
+"f": "services__female__female-2.webp",
+"w": 816,
+"h": 1296,
+"fmt": "WEBP",
+"kb": 37.3,
+"cat": "services"
+},
+{
+"f": "services__female__hostesses__hostess-1.webp",
+"w": 1024,
+"h": 1024,
+"fmt": "WEBP",
+"kb": 170.1,
+"cat": "services"
+},
+{
+"f": "services__female__hostesses__hostess-2.webp",
+"w": 816,
+"h": 1296,
+"fmt": "WEBP",
+"kb": 37.3,
+"cat": "services"
+},
+{
+"f": "services__female__safarjiat__safarjia-f-1.webp",
+"w": 1137,
+"h": 417,
+"fmt": "WEBP",
+"kb": 41.4,
+"cat": "services"
+},
+{
+"f": "services__female__safarjiat__safarjia-f-2.webp",
+"w": 1280,
+"h": 637,
+"fmt": "WEBP",
+"kb": 61.2,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla-janbiya__dagla-janbiya-1.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 100.5,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla-janbiya__dagla-janbiya-2.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 146.8,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla__dagla-1.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 84.7,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla__dagla-2.webp",
+"w": 476,
+"h": 846,
+"fmt": "WEBP",
+"kb": 47.7,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla__dagla-3.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 142.2,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla__dagla-4.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 68.4,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla__dagla-5.webp",
+"w": 1280,
+"h": 854,
+"fmt": "WEBP",
+"kb": 50.6,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__dagla__dagla-6.webp",
+"w": 271,
+"h": 300,
+"fmt": "WEBP",
+"kb": 11.0,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__hizam__hizam-1.webp",
+"w": 864,
+"h": 1184,
+"fmt": "WEBP",
+"kb": 69.9,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__hizam__hizam-2.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 230.9,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__makkawi__makkawi-1.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 92.7,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__makkawi__makkawi-2.webp",
+"w": 1280,
+"h": 720,
+"fmt": "WEBP",
+"kb": 100.2,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__sideriya__sideriya-1.webp",
+"w": 4032,
+"h": 3024,
+"fmt": "WEBP",
+"kb": 1107.0,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__sideriya__sideriya-2.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 83.6,
+"cat": "services"
+},
+{
+"f": "services__male__hosts__sideriya__sideriya-3.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 72.1,
+"cat": "services"
+},
+{
+"f": "services__male__safarjia__safarjia-1.webp",
+"w": 1137,
+"h": 417,
+"fmt": "WEBP",
+"kb": 41.4,
+"cat": "services"
+},
+{
+"f": "services__male__safarjia__safarjia-2.webp",
+"w": 1280,
+"h": 637,
+"fmt": "WEBP",
+"kb": 61.2,
+"cat": "services"
+},
+{
+"f": "services__male__safarjia__safarjia-3.webp",
+"w": 958,
+"h": 939,
+"fmt": "WEBP",
+"kb": 56.5,
+"cat": "services"
+},
+{
+"f": "services__male__safarjia__safarjia-4.webp",
+"w": 548,
+"h": 592,
+"fmt": "WEBP",
+"kb": 21.9,
+"cat": "services"
+},
+{
+"f": "services__male__safarjia__safarjia-5.webp",
+"w": 958,
+"h": 788,
+"fmt": "WEBP",
+"kb": 94.5,
+"cat": "services"
+},
+{
+"f": "services__male__safarjia__safarjia-6.webp",
+"w": 777,
+"h": 672,
+"fmt": "WEBP",
+"kb": 44.4,
+"cat": "services"
+},
+{
+"f": "services__male__sawas__sawas-1.webp",
+"w": 900,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 318.5,
+"cat": "services"
+},
+{
+"f": "services__male__sawas__sawas-2.webp",
+"w": 900,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 283.2,
+"cat": "services"
+},
+{
+"f": "services__male__sawas__sawas-3.webp",
+"w": 786,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 113.6,
+"cat": "services"
+},
+{
+"f": "services__male__sawas__sawas-4.webp",
+"w": 1026,
+"h": 1600,
+"fmt": "WEBP",
+"kb": 162.4,
+"cat": "services"
+},
+{
+"f": "services__male__sawas__sawas-5.webp",
+"w": 1802,
+"h": 4000,
+"fmt": "WEBP",
+"kb": 409.9,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-1.webp",
+"w": 1290,
+"h": 551,
+"fmt": "WEBP",
+"kb": 61.5,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-2.webp",
+"w": 1600,
+"h": 900,
+"fmt": "WEBP",
+"kb": 122.4,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-3.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 54.2,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-4.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 170.8,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-5.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 78.4,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-6.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 65.0,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-7.webp",
+"w": 280,
+"h": 307,
+"fmt": "WEBP",
+"kb": 12.7,
+"cat": "services"
+},
+{
+"f": "services__male__souqiya__souqiya-8.webp",
+"w": 280,
+"h": 316,
+"fmt": "WEBP",
+"kb": 28.5,
+"cat": "services"
+},
+{
+"f": "services__safarjia__safarji-1.webp",
+"w": 571,
+"h": 800,
+"fmt": "WEBP",
+"kb": 21.9,
+"cat": "services"
+},
+{
+"f": "services__safarjia__safarji-2.webp",
+"w": 572,
+"h": 795,
+"fmt": "WEBP",
+"kb": 32.5,
+"cat": "services"
+},
+{
+"f": "services__safarjia__safarji-3.webp",
+"w": 720,
+"h": 1041,
+"fmt": "WEBP",
+"kb": 33.6,
+"cat": "services"
+},
+{
+"f": "services__safarjia__safarji-4.webp",
+"w": 720,
+"h": 987,
+"fmt": "WEBP",
+"kb": 56.8,
+"cat": "services"
+},
+{
+"f": "services__safarjia__safarjia-main-bg.webp",
+"w": 572,
+"h": 943,
+"fmt": "WEBP",
+"kb": 28.2,
+"cat": "services"
+},
+{
+"f": "services__sawas__sawas-main.webp",
+"w": 853,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 126.7,
+"cat": "services"
+},
+{
+"f": "services__sawas__sawas-style-1.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 109.0,
+"cat": "services"
+},
+{
+"f": "services__sawas__sawas-style-2.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 80.0,
+"cat": "services"
+},
+{
+"f": "services__sawas__sawas-style-3.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 79.0,
+"cat": "services"
+},
+{
+"f": "services__sawas__sawas-style-4.webp",
+"w": 1014,
+"h": 1382,
+"fmt": "WEBP",
+"kb": 94.0,
+"cat": "services"
+},
+{
+"f": "serving-equipment__coffee-cups.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 30.6,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__coffee-dallah.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 26.7,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__coffee-finjan.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 30.0,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__coffee-glass.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 24.8,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__coffee-mug.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 20.0,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__glass-cup.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 22.3,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__glass-tea-cup.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 26.0,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__golden-dallah.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 27.7,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__tea-cup.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 23.7,
+"cat": "serving-equipment"
+},
+{
+"f": "serving-equipment__white-tea-cup.webp",
+"w": 1080,
+"h": 1080,
+"fmt": "WEBP",
+"kb": 40.1,
+"cat": "serving-equipment"
+},
+{
+"f": "snacks__saudi-crispy-chicken-popcorn-bites-honey-mustard.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 110.5,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-crispy-golden-potato-wedges-rosemary-catering.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 97.1,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-crispy-mozzarella-cheese-sticks-marinara-snacks.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 96.1,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-crispy-spring-rolls-sweet-chili-luxury-snacks.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 83.3,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-golden-potato-cheese-croquettes-luxury-catering.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 129.6,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-gourmet-finger-food-assortment-canapes-vip.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 133.2,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-italian-bruschetta-tomato-basil-luxury-appetizer.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 121.7,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-loaded-nachos-cheese-jalapeno-vip-snacks.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 128.8,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-mini-beef-sliders-cheese-luxury-catering.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 74.9,
+"cat": "snacks"
+},
+{
+"f": "snacks__saudi-mini-margherita-pizza-luxury-catering-finger-food.webp",
+"w": 1100,
+"h": 1100,
+"fmt": "WEBP",
+"kb": 113.8,
+"cat": "snacks"
+},
+{
+"f": "sweets__baklava.webp",
+"w": 720,
+"h": 720,
+"fmt": "WEBP",
+"kb": 88.6,
+"cat": "sweets"
+},
+{
+"f": "sweets__bostani-chocolate.webp",
+"w": 1080,
+"h": 1350,
+"fmt": "WEBP",
+"kb": 87.1,
+"cat": "sweets"
+},
+{
+"f": "sweets__chocolate-croissant.webp",
+"w": 736,
+"h": 920,
+"fmt": "WEBP",
+"kb": 67.2,
+"cat": "sweets"
+},
+{
+"f": "sweets__kunafa.webp",
+"w": 735,
+"h": 1099,
+"fmt": "WEBP",
+"kb": 47.8,
+"cat": "sweets"
+},
+{
+"f": "sweets__pancake.webp",
+"w": 736,
+"h": 752,
+"fmt": "WEBP",
+"kb": 29.6,
+"cat": "sweets"
+},
+{
+"f": "sweets__patchi-chocolate.webp",
+"w": 600,
+"h": 600,
+"fmt": "WEBP",
+"kb": 30.7,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-elegant-dessert-buffet-panna-cotta-shooters.webp",
+"w": 1200,
+"h": 675,
+"fmt": "WEBP",
+"kb": 146.6,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-elegant-dessert-station-mango-panna-cotta-red-velvet.webp",
+"w": 1165,
+"h": 960,
+"fmt": "WEBP",
+"kb": 119.9,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-fruit-platter-baklava-pistachio-dessert.webp",
+"w": 1200,
+"h": 801,
+"fmt": "WEBP",
+"kb": 146.4,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-luxury-dessert-buffet-chocolate-mousse-basbousa.webp",
+"w": 1200,
+"h": 540,
+"fmt": "WEBP",
+"kb": 127.0,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-luxury-dessert-buffet-mini-cakes-shooters.webp",
+"w": 1200,
+"h": 540,
+"fmt": "WEBP",
+"kb": 125.4,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-luxury-dessert-station-fresh-fruit-mix.webp",
+"w": 1200,
+"h": 2793,
+"fmt": "WEBP",
+"kb": 307.8,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-luxury-dessert-station-fruit-mousse-cups.webp",
+"w": 1200,
+"h": 900,
+"fmt": "WEBP",
+"kb": 114.9,
+"cat": "sweets"
+},
+{
+"f": "sweets__saudi-traditional-baklava-kunafa-pistachio-fruit-platter.webp",
+"w": 1200,
+"h": 800,
+"fmt": "WEBP",
+"kb": 141.4,
+"cat": "sweets"
+},
+{
+"f": "weddings__arab-wedding-hall-men-section-male-hosts-marble.webp",
+"w": 271,
+"h": 300,
+"fmt": "WEBP",
+"kb": 11.0,
+"cat": "weddings"
+},
+{
+"f": "weddings__arab-wedding-male-host-qahwa-station-vip-wedding.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 119.8,
+"cat": "weddings"
+},
+{
+"f": "weddings__arab-wedding-men-section-wedding-decoration-qahwa-station.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 145.4,
+"cat": "weddings"
+},
+{
+"f": "weddings__jeddah-wedding-men-section-traditional-uniform-luxury-wedding.webp",
+"w": 1280,
+"h": 960,
+"fmt": "WEBP",
+"kb": 148.7,
+"cat": "weddings"
+},
+{
+"f": "weddings__luxury-wedding-decoration-male-hosts-traditional-uniform.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 146.8,
+"cat": "weddings"
+},
+{
+"f": "weddings__luxury-wedding-hall-male-hosts-dallah-gift-tray.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 126.4,
+"cat": "weddings"
+},
+{
+"f": "weddings__luxury-wedding-men-section-traditional-uniform-wedding-hall.webp",
+"w": 1600,
+"h": 1200,
+"fmt": "WEBP",
+"kb": 122.8,
+"cat": "weddings"
+},
+{
+"f": "weddings__qahwa-station-male-host-dallah-wedding-hall-ceremony.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 59.3,
+"cat": "weddings"
+},
+{
+"f": "weddings__riyadh-wedding-vip-wedding-hall-male-host.webp",
+"w": 1280,
+"h": 960,
+"fmt": "WEBP",
+"kb": 125.8,
+"cat": "weddings"
+},
+{
+"f": "weddings__saudi-wedding-male-host-arabic-coffee-luxury-wedding.webp",
+"w": 1280,
+"h": 854,
+"fmt": "WEBP",
+"kb": 72.7,
+"cat": "weddings"
+},
+{
+"f": "weddings__saudi-wedding-male-host-coffee-vip-wedding-hall.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 116.0,
+"cat": "weddings"
+},
+{
+"f": "weddings__saudi-wedding-male-host-dallah-dates-qahwa-station.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 79.6,
+"cat": "weddings"
+},
+{
+"f": "weddings__saudi-wedding-men-section-male-host-dallah-traditional.webp",
+"w": 1280,
+"h": 854,
+"fmt": "WEBP",
+"kb": 50.6,
+"cat": "weddings"
+},
+{
+"f": "weddings__saudi-wedding-qahwa-station-dallah-white-thobe.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 104.2,
+"cat": "weddings"
+},
+{
+"f": "weddings__saudi-wedding-traditional-uniform-male-hosts-white-thobe.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 83.6,
+"cat": "weddings"
+},
+{
+"f": "weddings__saudi-wedding-vip-wedding-hall-host-dallah-flag.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 94.7,
+"cat": "weddings"
+},
+{
+"f": "weddings__vip-wedding-traditional-uniform-dallah-wedding-hall.webp",
+"w": 720,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 142.2,
+"cat": "weddings"
+},
+{
+"f": "weddings__wedding-coffee-male-host-dallah-tray-white-thobe.webp",
+"w": 960,
+"h": 1280,
+"fmt": "WEBP",
+"kb": 72.1,
+"cat": "weddings"
+}
+]

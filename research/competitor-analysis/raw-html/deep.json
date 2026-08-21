@@ -1,0 +1,6248 @@
+{
+ "keif|mobile": {
+  "hero": {
+   "h": 844,
+   "vh": 844,
+   "ratio": 1
+  },
+  "barsHeight": [
+   72,
+   73,
+   56
+  ],
+  "aboveFold": [
+   {
+    "tag": "SPAN",
+    "size": "18.4px",
+    "y": 19,
+    "t": "كيف الضيافة"
+   },
+   {
+    "tag": "SPAN",
+    "size": "9.6px",
+    "y": 39,
+    "t": "KEIF AL-DIAFA"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 798,
+    "t": "واتساب"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 798,
+    "t": "اتصال"
+   },
+   {
+    "tag": "SPAN",
+    "size": "13.6px",
+    "y": 796,
+    "t": "☰"
+   },
+   {
+    "tag": "SPAN",
+    "size": "13.6px",
+    "y": 796,
+    "t": "القائمة"
+   },
+   {
+    "tag": "SPAN",
+    "size": "11.2px",
+    "y": 97,
+    "t": "SINCE 2016"
+   },
+   {
+    "tag": "P",
+    "size": "35.2px",
+    "y": 138,
+    "t": "كيف الضيافة"
+   },
+   {
+    "tag": "P",
+    "size": "12.8px",
+    "y": 218,
+    "t": "KEIF AL-DIAFA"
+   },
+   {
+    "tag": "SPAN",
+    "size": "10.4px",
+    "y": 245,
+    "t": "LUXURY HOSPITALITY"
+   },
+   {
+    "tag": "H1",
+    "size": "24px",
+    "y": 285,
+    "t": "قهوجيين وصبابين قهوة لضيافة فاخرة في السعودية"
+   },
+   {
+    "tag": "P",
+    "size": "16px",
+    "y": 368,
+    "t": "نبتكر تجارب ضيافة استثنائية تلبي تطلعات النخبة، مع"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 536,
+    "t": "فعاليات رسمية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 536,
+    "t": "مؤتمرات دولية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 564,
+    "t": "مناسبات خاصة"
+   },
+   {
+    "tag": "A",
+    "size": "14px",
+    "y": 620,
+    "t": "احجز الآن"
+   },
+   {
+    "tag": "A",
+    "size": "14px",
+    "y": 620,
+    "t": "اكتشف خدماتنا"
+   }
+  ],
+  "tap": [
+   {
+    "t": "A",
+    "w": 1,
+    "h": 1,
+    "txt": "تخطي إلى المحتوى الرئيسي"
+   },
+   {
+    "t": "A",
+    "w": 169,
+    "h": 60,
+    "txt": "كيف الضيافة\nKEIF AL-DIAFA"
+   },
+   {
+    "t": "A",
+    "w": 84,
+    "h": 44,
+    "txt": "واتساب"
+   },
+   {
+    "t": "A",
+    "w": 75,
+    "h": 44,
+    "txt": "اتصال"
+   },
+   {
+    "t": "BUTTON",
+    "w": 100,
+    "h": 44,
+    "txt": "☰\nالقائمة"
+   },
+   {
+    "t": "A",
+    "w": 132,
+    "h": 54,
+    "txt": "احجز الآن"
+   },
+   {
+    "t": "A",
+    "w": 132,
+    "h": 54,
+    "txt": "اكتشف خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "واتساب"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "إنستغرام"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "تيك توك"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "اتصل بنا"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "الرئيسية"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "تقديماتنا"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "معرض الأعمال"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "من نحن"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "تواصل معنا"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة الرياض"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة جدة"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة الدمام"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة الطائف"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة أبها"
+   },
+   {
+    "t": "A",
+    "w": 163,
+    "h": 36,
+    "txt": "ضيافة ينبع"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة جدة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة الرياض"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة الدمام"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة الطائف"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة أبها"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "صبابين قهوة ينبع"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين جدة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين الرياض"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين المدينة المنو"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين الدمام"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين الطائف"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين أبها"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين ينبع"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات جدة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات الرياض"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات الدمام"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات الطائف"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات أبها"
+   },
+   {
+    "t": "A",
+    "w": 338,
+    "h": 28,
+    "txt": "ضيافة مناسبات ينبع"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "+966 50 825 2134"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "info@keifaldiafa.com"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "جميع مناطق المملكة العربية الس"
+   },
+   {
+    "t": "A",
+    "w": 78,
+    "h": 14,
+    "txt": "الحقوق القانونية"
+   },
+   {
+    "t": "A",
+    "w": 56,
+    "h": 56,
+    "txt": "تواصل عبر واتساب"
+   }
+  ],
+  "contrast": [
+   {
+    "t": "واتساب",
+    "size": 12,
+    "color": "rgb(37, 211, 102)",
+    "bg": "rgba(37, 211, 102, 0.08)",
+    "ratio": 1
+   },
+   {
+    "t": "اتصال",
+    "size": 12,
+    "color": "rgb(197, 160, 89)",
+    "bg": "rgba(197, 160, 89, 0.08)",
+    "ratio": 1
+   },
+   {
+    "t": "احجز الآن",
+    "size": 14,
+    "color": "rgb(26, 26, 26)",
+    "bg": "rgba(26, 26, 26, 0.75)",
+    "ratio": 1
+   },
+   {
+    "t": "القائمة",
+    "size": 13.6,
+    "color": "rgb(26, 26, 26)",
+    "bg": "rgba(15, 15, 15, 0.96)",
+    "ratio": 1.1
+   },
+   {
+    "t": "كيف الضيافة",
+    "size": 20.8,
+    "color": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 1.1
+   },
+   {
+    "t": "Alabbasi Soft",
+    "size": 12,
+    "color": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 1.1
+   },
+   {
+    "t": "مضيفون",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "مضيفات",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "سفرجي",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "سقاء",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "سواس",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "خطاط",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "رسام",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "فرقة شعبية",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "✦ نثق بهم ويثقون بنا ✦",
+    "size": 11.2,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "KEIF AL-DIAFA · LUXURY HOSPITALI",
+    "size": 9.92,
+    "color": "rgba(184, 134, 11, 0.5)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "روابط سريعة",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "خدماتنا حسب المدينة",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "خدماتنا في مدن المملكة",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "معلومات التواصل",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "خدماتنا",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "شهادات التوثيق والاعتماد",
+    "size": 12,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "KEIF AL-DIAFA · LUXURY HOSPITALI",
+    "size": 12,
+    "color": "rgba(184, 134, 11, 0.3)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "LUXURY HOSPITALITY",
+    "size": 10.4,
+    "color": "rgb(197, 160, 89)",
+    "bg": "rgba(26, 26, 26, 0.75)",
+    "ratio": 7.08
+   },
+   {
+    "t": "اكتشف خدماتنا",
+    "size": 14,
+    "color": "rgb(197, 160, 89)",
+    "bg": "rgba(26, 26, 26, 0.75)",
+    "ratio": 7.08
+   }
+  ],
+  "contrastFails": 14,
+  "contrastTotal": 104,
+  "imgs": [
+   {
+    "src": "logo-1.svg",
+    "nw": 150,
+    "nh": 150,
+    "dw": 60,
+    "dh": 60,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fhero%2Fhero-desktop.webp&w=828&q=70",
+    "nw": 390,
+    "nh": 165,
+    "dw": 390,
+    "dh": 844,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 62,
+    "dw": 69,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 50,
+    "dw": 76,
+    "dh": 41,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 45,
+    "dw": 76,
+    "dh": 36,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 66,
+    "dw": 65,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 62,
+    "dw": 69,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 50,
+    "dw": 76,
+    "dh": 41,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 45,
+    "dw": 76,
+    "dh": 36,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 66,
+    "dw": 65,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 62,
+    "dw": 69,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 50,
+    "dw": 76,
+    "dh": 41,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 45,
+    "dw": 76,
+    "dh": 36,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 66,
+    "dw": 65,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 62,
+    "dw": 69,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 50,
+    "dw": 76,
+    "dh": 41,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 45,
+    "dw": 76,
+    "dh": 36,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 66,
+    "dw": 65,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 48,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 53,
+    "dw": 76,
+    "dh": 43,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 37,
+    "dw": 76,
+    "dh": 30,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 31,
+    "dw": 76,
+    "dh": 25,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=828&q=85",
+    "nw": 75,
+    "nh": 89,
+    "dw": 39,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 48,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 53,
+    "dw": 76,
+    "dh": 43,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 37,
+    "dw": 76,
+    "dh": 30,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 31,
+    "dw": 76,
+    "dh": 25,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=828&q=85",
+    "nw": 75,
+    "nh": 89,
+    "dw": 39,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 48,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 53,
+    "dw": 76,
+    "dh": 43,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 37,
+    "dw": 76,
+    "dh": 30,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 31,
+    "dw": 76,
+    "dh": 25,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=828&q=85",
+    "nw": 75,
+    "nh": 89,
+    "dw": 39,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 48,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 53,
+    "dw": 76,
+    "dh": 43,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=828&q=85",
+    "nw": 91,
+    "nh": 91,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 32,
+    "dw": 76,
+    "dh": 26,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 49,
+    "dw": 76,
+    "dh": 40,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 37,
+    "dw": 76,
+    "dh": 30,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 43,
+    "dw": 76,
+    "dh": 35,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 31,
+    "dw": 76,
+    "dh": 25,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=828&q=85",
+    "nw": 94,
+    "nh": 94,
+    "dw": 46,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=828&q=85",
+    "nw": 75,
+    "nh": 89,
+    "dw": 39,
+    "dh": 46,
+    "loading": "lazy"
+   },
+   {
+    "src": "logo-1.svg",
+    "nw": 150,
+    "nh": 150,
+    "dw": 60,
+    "dh": 60,
+    "loading": "auto"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 78,
+    "dh": 78,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 78,
+    "dh": 78,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 78,
+    "dh": 78,
+    "loading": "lazy"
+   }
+  ],
+  "sectionRhythm": [
+   {
+    "h": 3471,
+    "pt": 0,
+    "pb": 0,
+    "heading": "قهوجيين وصبابين قهوة لضيافة فاخرة في الس"
+   }
+  ],
+  "waLinks": 5,
+  "telLinks": 3,
+  "forms": 0,
+  "inputs": [],
+  "docH": 5472,
+  "screens": 6.5,
+  "bytesByType": {
+   "script": 344,
+   "media": 278,
+   "font": 156,
+   "image": 110,
+   "document": 0,
+   "stylesheet": 0,
+   "fetch": 0,
+   "ping": 0
+  },
+  "bytesTotalKB": 887,
+  "reqCount": 74
+ },
+ "keif|desktop": {
+  "hero": {
+   "h": 900,
+   "vh": 900,
+   "ratio": 1
+  },
+  "barsHeight": [
+   72,
+   0,
+   56
+  ],
+  "aboveFold": [
+   {
+    "tag": "SPAN",
+    "size": "18.4px",
+    "y": 19,
+    "t": "كيف الضيافة"
+   },
+   {
+    "tag": "SPAN",
+    "size": "9.6px",
+    "y": 39,
+    "t": "KEIF AL-DIAFA"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 26,
+    "t": "الرئيسية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 26,
+    "t": "خدماتنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 26,
+    "t": "تقديماتنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 26,
+    "t": "معرض الأعمال"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 26,
+    "t": "من نحن"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 26,
+    "t": "تواصل معنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "11.2px",
+    "y": 160,
+    "t": "SINCE 2016"
+   },
+   {
+    "tag": "P",
+    "size": "72px",
+    "y": 201,
+    "t": "كيف الضيافة"
+   },
+   {
+    "tag": "P",
+    "size": "15.2px",
+    "y": 326,
+    "t": "KEIF AL-DIAFA"
+   },
+   {
+    "tag": "SPAN",
+    "size": "10.4px",
+    "y": 356,
+    "t": "LUXURY HOSPITALITY"
+   },
+   {
+    "tag": "H1",
+    "size": "33.6px",
+    "y": 396,
+    "t": "قهوجيين وصبابين قهوة لضيافة فاخرة في السعودية"
+   },
+   {
+    "tag": "P",
+    "size": "18.4px",
+    "y": 506,
+    "t": "نبتكر تجارب ضيافة استثنائية تلبي تطلعات النخبة، مع"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 630,
+    "t": "فعاليات رسمية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 630,
+    "t": "مؤتمرات دولية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 630,
+    "t": "مناسبات خاصة"
+   },
+   {
+    "tag": "A",
+    "size": "14px",
+    "y": 686,
+    "t": "احجز الآن"
+   },
+   {
+    "tag": "A",
+    "size": "14px",
+    "y": 686,
+    "t": "اكتشف خدماتنا"
+   }
+  ],
+  "tap": [
+   {
+    "t": "A",
+    "w": 1,
+    "h": 1,
+    "txt": "تخطي إلى المحتوى الرئيسي"
+   },
+   {
+    "t": "A",
+    "w": 169,
+    "h": 60,
+    "txt": "كيف الضيافة\nKEIF AL-DIAFA"
+   },
+   {
+    "t": "A",
+    "w": 72,
+    "h": 44,
+    "txt": "الرئيسية"
+   },
+   {
+    "t": "A",
+    "w": 64,
+    "h": 44,
+    "txt": "خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 70,
+    "h": 44,
+    "txt": "تقديماتنا"
+   },
+   {
+    "t": "A",
+    "w": 110,
+    "h": 44,
+    "txt": "معرض الأعمال"
+   },
+   {
+    "t": "A",
+    "w": 71,
+    "h": 44,
+    "txt": "من نحن"
+   },
+   {
+    "t": "A",
+    "w": 89,
+    "h": 44,
+    "txt": "تواصل معنا"
+   },
+   {
+    "t": "A",
+    "w": 123,
+    "h": 44,
+    "txt": "تواصل الآن"
+   },
+   {
+    "t": "A",
+    "w": 139,
+    "h": 54,
+    "txt": "احجز الآن"
+   },
+   {
+    "t": "A",
+    "w": 169,
+    "h": 54,
+    "txt": "اكتشف خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "واتساب"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "إنستغرام"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "تيك توك"
+   },
+   {
+    "t": "A",
+    "w": 40,
+    "h": 44,
+    "txt": "اتصل بنا"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "الرئيسية"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "تقديماتنا"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "معرض الأعمال"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "من نحن"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "تواصل معنا"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 36,
+    "txt": "ضيافة الرياض"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 36,
+    "txt": "ضيافة جدة"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 40,
+    "txt": "ضيافة مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 40,
+    "txt": "ضيافة المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 36,
+    "txt": "ضيافة الدمام"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 36,
+    "txt": "ضيافة الطائف"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 36,
+    "txt": "ضيافة أبها"
+   },
+   {
+    "t": "A",
+    "w": 131,
+    "h": 36,
+    "txt": "ضيافة ينبع"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة جدة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة الرياض"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة الدمام"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة الطائف"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة أبها"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "صبابين قهوة ينبع"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين جدة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين الرياض"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين المدينة المنو"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين الدمام"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين الطائف"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين أبها"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "قهوجيين ومباشرين ينبع"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات جدة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات الرياض"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات الدمام"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات الطائف"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات أبها"
+   },
+   {
+    "t": "A",
+    "w": 274,
+    "h": 28,
+    "txt": "ضيافة مناسبات ينبع"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "+966 50 825 2134"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "info@keifaldiafa.com"
+   },
+   {
+    "t": "A",
+    "w": 278,
+    "h": 36,
+    "txt": "جميع مناطق المملكة العربية الس"
+   },
+   {
+    "t": "A",
+    "w": 78,
+    "h": 14,
+    "txt": "الحقوق القانونية"
+   },
+   {
+    "t": "A",
+    "w": 56,
+    "h": 56,
+    "txt": "تواصل عبر واتساب"
+   }
+  ],
+  "contrast": [
+   {
+    "t": "واتساب",
+    "size": 12,
+    "color": "rgb(37, 211, 102)",
+    "bg": "rgba(37, 211, 102, 0.08)",
+    "ratio": 1
+   },
+   {
+    "t": "اتصال",
+    "size": 12,
+    "color": "rgb(197, 160, 89)",
+    "bg": "rgba(197, 160, 89, 0.08)",
+    "ratio": 1
+   },
+   {
+    "t": "احجز الآن",
+    "size": 14,
+    "color": "rgb(26, 26, 26)",
+    "bg": "rgba(26, 26, 26, 0.75)",
+    "ratio": 1
+   },
+   {
+    "t": "القائمة",
+    "size": 13.6,
+    "color": "rgb(26, 26, 26)",
+    "bg": "rgba(15, 15, 15, 0.96)",
+    "ratio": 1.1
+   },
+   {
+    "t": "كيف الضيافة",
+    "size": 20.8,
+    "color": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 1.1
+   },
+   {
+    "t": "Alabbasi Soft",
+    "size": 12,
+    "color": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 1.1
+   },
+   {
+    "t": "مضيفون",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "مضيفات",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "سفرجي",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "سقاء",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "سواس",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "خطاط",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "رسام",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "فرقة شعبية",
+    "size": 12,
+    "color": "rgba(245, 245, 219, 0.4)",
+    "bg": "rgba(184, 134, 11, 0.06)",
+    "ratio": 2.94
+   },
+   {
+    "t": "✦ نثق بهم ويثقون بنا ✦",
+    "size": 11.2,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "KEIF AL-DIAFA · LUXURY HOSPITALI",
+    "size": 9.92,
+    "color": "rgba(184, 134, 11, 0.5)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "روابط سريعة",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "خدماتنا حسب المدينة",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "خدماتنا في مدن المملكة",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "معلومات التواصل",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "خدماتنا",
+    "size": 14.4,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "شهادات التوثيق والاعتماد",
+    "size": 12,
+    "color": "rgb(184, 134, 11)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "KEIF AL-DIAFA · LUXURY HOSPITALI",
+    "size": 12,
+    "color": "rgba(184, 134, 11, 0.3)",
+    "bg": "rgb(15, 15, 15)",
+    "ratio": 5.89
+   },
+   {
+    "t": "LUXURY HOSPITALITY",
+    "size": 10.4,
+    "color": "rgb(197, 160, 89)",
+    "bg": "rgba(26, 26, 26, 0.75)",
+    "ratio": 7.08
+   },
+   {
+    "t": "اكتشف خدماتنا",
+    "size": 14,
+    "color": "rgb(197, 160, 89)",
+    "bg": "rgba(26, 26, 26, 0.75)",
+    "ratio": 7.08
+   }
+  ],
+  "contrastFails": 14,
+  "contrastTotal": 104,
+  "imgs": [
+   {
+    "src": "logo-1.svg",
+    "nw": 150,
+    "nh": 150,
+    "dw": 60,
+    "dh": 60,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fhero%2Fhero-desktop.webp&w=1920&q=70",
+    "nw": 1440,
+    "nh": 611,
+    "dw": 1440,
+    "dh": 900,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 98,
+    "dw": 87,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 79,
+    "dw": 108,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 71,
+    "dw": 114,
+    "dh": 55,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 104,
+    "dw": 82,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 98,
+    "dw": 87,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 79,
+    "dw": 108,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 71,
+    "dw": 114,
+    "dh": 55,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 104,
+    "dw": 82,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 98,
+    "dw": 87,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 79,
+    "dw": 108,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 71,
+    "dw": 114,
+    "dh": 55,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 104,
+    "dw": 82,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F01_Olayan_Group.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F02_Schneider_Electric.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 98,
+    "dw": 87,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F03_Najeeb_Auto_Suzuki.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F04_WSM_Digital.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F05_Mokab.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F06_MyClinic.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F07_Al_Ahli_FC.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F08_Benchmark.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F09_Fuchs_KSA.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F10_Milia_Travel.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 79,
+    "dw": 108,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F11_Al_Mousa_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 71,
+    "dw": 114,
+    "dh": 55,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F12_Damanat.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F13_Daam_Broker.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 104,
+    "dw": 82,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F14_Munera_Alessa.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F15_Somer.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 112,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 83,
+    "dw": 103,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 58,
+    "dw": 114,
+    "dh": 45,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 49,
+    "dw": 114,
+    "dh": 38,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=640&q=85",
+    "nw": 118,
+    "nh": 141,
+    "dw": 49,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 112,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 83,
+    "dw": 103,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 58,
+    "dw": 114,
+    "dh": 45,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 49,
+    "dw": 114,
+    "dh": 38,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=640&q=85",
+    "nw": 118,
+    "nh": 141,
+    "dw": 49,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 112,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 83,
+    "dw": 103,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 58,
+    "dw": 114,
+    "dh": 45,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 49,
+    "dw": 114,
+    "dh": 38,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=640&q=85",
+    "nw": 118,
+    "nh": 141,
+    "dw": 49,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F16_Napco_National.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F17_Saudi_Binladen_Group.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 112,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F18_Glamera.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 83,
+    "dw": 103,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F19_Sharq_Jeddah_Association.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F20_Olayan_Group_Alt.webp&w=640&q=85",
+    "nw": 144,
+    "nh": 144,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F21_Najeeb_Auto_Suzuki_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 50,
+    "dw": 114,
+    "dh": 39,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F22_WSM_Digital_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 77,
+    "dw": 110,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F23_Benchmark_Strategy.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 58,
+    "dw": 114,
+    "dh": 45,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F24_Fuchs_KSA_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 69,
+    "dw": 114,
+    "dh": 53,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F25_Damanat_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F26_Napco_National_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 49,
+    "dw": 114,
+    "dh": 38,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F27_Binladin_Holding.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F28_Glamera_Alt.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F29_Bahja_Events.webp&w=640&q=85",
+    "nw": 148,
+    "nh": 148,
+    "dw": 58,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fpartners%2F30_Hamat_Leading.webp&w=640&q=85",
+    "nw": 118,
+    "nh": 141,
+    "dw": 49,
+    "dh": 58,
+    "loading": "lazy"
+   },
+   {
+    "src": "logo-1.svg",
+    "nw": 150,
+    "nh": 150,
+    "dw": 60,
+    "dh": 60,
+    "loading": "auto"
+   },
+   {
+    "src": "sbc.svg",
+    "nw": 150,
+    "nh": 150,
+    "dw": 92,
+    "dh": 92,
+    "loading": "lazy"
+   },
+   {
+    "src": "zatca.svg",
+    "nw": 150,
+    "nh": 150,
+    "dw": 92,
+    "dh": 92,
+    "loading": "lazy"
+   },
+   {
+    "src": "commerce.svg",
+    "nw": 150,
+    "nh": 150,
+    "dw": 92,
+    "dh": 92,
+    "loading": "lazy"
+   }
+  ],
+  "sectionRhythm": [
+   {
+    "h": 2775,
+    "pt": 0,
+    "pb": 0,
+    "heading": "قهوجيين وصبابين قهوة لضيافة فاخرة في الس"
+   }
+  ],
+  "waLinks": 5,
+  "telLinks": 3,
+  "forms": 0,
+  "inputs": [],
+  "docH": 4126,
+  "screens": 4.6,
+  "bytesByType": {
+   "script": 344,
+   "font": 156,
+   "image": 153,
+   "document": 0,
+   "stylesheet": 0,
+   "fetch": 0,
+   "ping": 0,
+   "media": 0
+  },
+  "bytesTotalKB": 652,
+  "reqCount": 87
+ },
+ "asoul|mobile": {
+  "hero": {
+   "h": 844,
+   "vh": 844,
+   "ratio": 1
+  },
+  "barsHeight": [
+   65,
+   0,
+   79
+  ],
+  "aboveFold": [
+   {
+    "tag": "SPAN",
+    "size": "18.88px",
+    "y": 14,
+    "t": "أصول الضيافة"
+   },
+   {
+    "tag": "SPAN",
+    "size": "9.6px",
+    "y": 35,
+    "t": "ASOUL AL-DIAFA"
+   },
+   {
+    "tag": "SPAN",
+    "size": "10.4px",
+    "y": 356,
+    "t": "SINCE 2017"
+   },
+   {
+    "tag": "H1",
+    "size": "24px",
+    "y": 380,
+    "t": "أصول الضيافة"
+   },
+   {
+    "tag": "P",
+    "size": "13.6px",
+    "y": 418,
+    "t": "نُحيي أصول الضيافة العربية بفريق صبّابين بزي تراثي"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 504,
+    "t": "فعاليات رسمية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 504,
+    "t": "مؤتمرات ومحافل"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 504,
+    "t": "مناسبات خاصة"
+   },
+   {
+    "tag": "A",
+    "size": "12px",
+    "y": 554,
+    "t": "احجز ضيافتك"
+   },
+   {
+    "tag": "A",
+    "size": "12px",
+    "y": 554,
+    "t": "شاهد أعمالنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "10px",
+    "y": 761,
+    "t": "اسحب للأسفل"
+   },
+   {
+    "tag": "SPAN",
+    "size": "11px",
+    "y": 806,
+    "t": "الرئيسية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "11px",
+    "y": 806,
+    "t": "خدماتنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "10.5px",
+    "y": 808,
+    "t": "القائمة"
+   },
+   {
+    "tag": "SPAN",
+    "size": "11px",
+    "y": 806,
+    "t": "المعرض"
+   },
+   {
+    "tag": "SPAN",
+    "size": "11px",
+    "y": 806,
+    "t": "من نحن"
+   }
+  ],
+  "tap": [
+   {
+    "t": "A",
+    "w": 1,
+    "h": 1,
+    "txt": "تخطي إلى المحتوى الرئيسي"
+   },
+   {
+    "t": "A",
+    "w": 177,
+    "h": 48,
+    "txt": "أصول الضيافة\nASOUL AL-DIAFA"
+   },
+   {
+    "t": "A",
+    "w": 152,
+    "h": 46,
+    "txt": "احجز ضيافتك"
+   },
+   {
+    "t": "A",
+    "w": 152,
+    "h": 46,
+    "txt": "شاهد أعمالنا"
+   },
+   {
+    "t": "A",
+    "w": 128,
+    "h": 20,
+    "txt": "تعرف على الفريق\n←"
+   },
+   {
+    "t": "A",
+    "w": 112,
+    "h": 20,
+    "txt": "شاهد التجهيزات\n←"
+   },
+   {
+    "t": "A",
+    "w": 113,
+    "h": 20,
+    "txt": "تصفّح التقديمات\n←"
+   },
+   {
+    "t": "A",
+    "w": 215,
+    "h": 50,
+    "txt": "استعرض كامل المعرض"
+   },
+   {
+    "t": "A",
+    "w": 185,
+    "h": 54,
+    "txt": "تواصل عبر واتساب"
+   },
+   {
+    "t": "A",
+    "w": 132,
+    "h": 54,
+    "txt": "اتصل الآن"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي جدة"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي ينبع"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي بدر"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي جدة"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي ينبع"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي بدر"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي المدينة المنو"
+   },
+   {
+    "t": "A",
+    "w": 173,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 44,
+    "h": 44,
+    "txt": "واتساب"
+   },
+   {
+    "t": "A",
+    "w": 44,
+    "h": 44,
+    "txt": "اتصل بنا"
+   },
+   {
+    "t": "A",
+    "w": 44,
+    "h": 44,
+    "txt": "بريد إلكتروني"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "الرئيسية"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "تقديماتنا"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "معرض الأعمال"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "من نحن"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "تواصل معنا"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "+966 56 899 7316"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "0568997316"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "osoulaldiafa@gmail.com"
+   },
+   {
+    "t": "A",
+    "w": 112,
+    "h": 26,
+    "txt": "قهوجيين ومباشرين"
+   },
+   {
+    "t": "A",
+    "w": 97,
+    "h": 26,
+    "txt": "ركن قهوة عربية"
+   },
+   {
+    "t": "A",
+    "w": 86,
+    "h": 26,
+    "txt": "ضيافة أعراس"
+   },
+   {
+    "t": "A",
+    "w": 94,
+    "h": 26,
+    "txt": "ضيافة مؤتمرات"
+   },
+   {
+    "t": "A",
+    "w": 114,
+    "h": 26,
+    "txt": "تجهيز ضيافة حفلات"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "صبابين قهوة جدة"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "صبابين قهوة ينبع"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "صبابين قهوة بدر"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "صبابين قهوة المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "صبابين قهوة مكة"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "ضيافة مناسبات جدة"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "ضيافة مناسبات ينبع"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "ضيافة مناسبات بدر"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "ضيافة مناسبات المدينة"
+   },
+   {
+    "t": "A",
+    "w": 342,
+    "h": 36,
+    "txt": "ضيافة مناسبات مكة"
+   },
+   {
+    "t": "A",
+    "w": 76,
+    "h": 102,
+    "txt": "انستقرام"
+   },
+   {
+    "t": "A",
+    "w": 76,
+    "h": 102,
+    "txt": "تيك توك"
+   },
+   {
+    "t": "A",
+    "w": 76,
+    "h": 102,
+    "txt": "سناب شات"
+   },
+   {
+    "t": "A",
+    "w": 83,
+    "h": 14,
+    "txt": "م. معين العبّاسي"
+   },
+   {
+    "t": "A",
+    "w": 65,
+    "h": 48,
+    "txt": "الرئيسية"
+   },
+   {
+    "t": "A",
+    "w": 65,
+    "h": 48,
+    "txt": "خدماتنا"
+   },
+   {
+    "t": "BUTTON",
+    "w": 76,
+    "h": 82,
+    "txt": "القائمة"
+   },
+   {
+    "t": "A",
+    "w": 65,
+    "h": 48,
+    "txt": "المعرض"
+   },
+   {
+    "t": "A",
+    "w": 65,
+    "h": 48,
+    "txt": "من نحن"
+   }
+  ],
+  "contrast": [
+   {
+    "t": "احجز ضيافتك",
+    "size": 12,
+    "color": "rgb(20, 18, 16)",
+    "bg": "rgba(16, 14, 12, 0.55)",
+    "ratio": 1.03
+   },
+   {
+    "t": "تواصل عبر واتساب",
+    "size": 14,
+    "color": "rgb(20, 18, 16)",
+    "bg": "rgb(10, 10, 10)",
+    "ratio": 1.06
+   },
+   {
+    "t": "شاهد أعمالنا",
+    "size": 12,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.04)",
+    "ratio": 1.49
+   },
+   {
+    "t": "استعرض كامل المعرض",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.04)",
+    "ratio": 1.49
+   },
+   {
+    "t": "اتصل الآن",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.04)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "قهوجيين ومباشرين",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "ركن قهوة عربية",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "ضيافة أعراس",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "ضيافة مؤتمرات",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "تجهيز ضيافة حفلات",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "في جدة",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في ينبع",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في بدر",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في المدينة المنورة",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في مكة المكرمة",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   }
+  ],
+  "contrastFails": 30,
+  "contrastTotal": 124,
+  "imgs": [
+   {
+    "src": "logo.webp",
+    "nw": 1024,
+    "nh": 1024,
+    "dw": 48,
+    "dh": 48,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fhero%2Fhero-desktop.webp&w=828&q=75",
+    "nw": 390,
+    "nh": 520,
+    "dw": 390,
+    "dh": 844,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Flogo.webp&w=640&q=75",
+    "nw": 320,
+    "nh": 320,
+    "dw": 100,
+    "dh": 100,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 313,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=828&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=828&q=75",
+    "nw": 153,
+    "nh": 272,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 213,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 351,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 77,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 313,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=828&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=828&q=75",
+    "nw": 153,
+    "nh": 272,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 213,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 351,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 77,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 313,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=828&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=828&q=75",
+    "nw": 153,
+    "nh": 272,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 213,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 351,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 77,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 313,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=828&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=828&q=75",
+    "nw": 153,
+    "nh": 272,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 132,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-6.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 213,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 234,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 351,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 176,
+    "nh": 77,
+    "dw": 174,
+    "dh": 126,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=828&q=75",
+    "nw": 339,
+    "nh": 602,
+    "dw": 356,
+    "dh": 267,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=828&q=75",
+    "nw": 390,
+    "nh": 520,
+    "dw": 356,
+    "dh": 267,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fdates%2Fdates-6.webp&w=828&q=75",
+    "nw": 344,
+    "nh": 602,
+    "dw": 356,
+    "dh": 267,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 157,
+    "dh": 340,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 157,
+    "dh": 164,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 157,
+    "dh": 164,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 328,
+    "dh": 164,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fdates%2Fdates-6.webp&w=828&q=75",
+    "nw": 172,
+    "nh": 301,
+    "dw": 157,
+    "dh": 164,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 157,
+    "dh": 164,
+    "loading": "lazy"
+   },
+   {
+    "src": "logo.webp",
+    "nw": 1024,
+    "nh": 1024,
+    "dw": 60,
+    "dh": 64,
+    "loading": "auto"
+   }
+  ],
+  "sectionRhythm": [
+   {
+    "h": 7142,
+    "pt": 0,
+    "pb": 0,
+    "heading": "أصول الضيافة"
+   },
+   {
+    "h": 698,
+    "pt": 64,
+    "pb": 64,
+    "heading": "خدماتنا في مدن المملكة"
+   }
+  ],
+  "waLinks": 7,
+  "telLinks": 3,
+  "forms": 0,
+  "inputs": [],
+  "docH": 9995,
+  "screens": 11.8,
+  "bytesByType": {
+   "image": 766,
+   "media": 352,
+   "font": 318,
+   "script": 0,
+   "document": 0,
+   "stylesheet": 0,
+   "fetch": 0
+  },
+  "bytesTotalKB": 1436,
+  "reqCount": 62
+ },
+ "asoul|desktop": {
+  "hero": {
+   "h": 900,
+   "vh": 900,
+   "ratio": 1
+  },
+  "barsHeight": [
+   65,
+   56,
+   0
+  ],
+  "aboveFold": [
+   {
+    "tag": "SPAN",
+    "size": "18.88px",
+    "y": 14,
+    "t": "أصول الضيافة"
+   },
+   {
+    "tag": "SPAN",
+    "size": "9.6px",
+    "y": 35,
+    "t": "ASOUL AL-DIAFA"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 22,
+    "t": "الرئيسية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 22,
+    "t": "خدماتنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 22,
+    "t": "تقديماتنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 22,
+    "t": "معرض الأعمال"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 22,
+    "t": "من نحن"
+   },
+   {
+    "tag": "SPAN",
+    "size": "14px",
+    "y": 22,
+    "t": "تواصل معنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "10.4px",
+    "y": 403,
+    "t": "SINCE 2017"
+   },
+   {
+    "tag": "H1",
+    "size": "38.4px",
+    "y": 426,
+    "t": "أصول الضيافة"
+   },
+   {
+    "tag": "P",
+    "size": "16.8px",
+    "y": 480,
+    "t": "نُحيي أصول الضيافة العربية بفريق صبّابين بزي تراثي"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 553,
+    "t": "فعاليات رسمية"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 553,
+    "t": "مؤتمرات ومحافل"
+   },
+   {
+    "tag": "SPAN",
+    "size": "12px",
+    "y": 553,
+    "t": "مناسبات خاصة"
+   },
+   {
+    "tag": "A",
+    "size": "14px",
+    "y": 603,
+    "t": "احجز ضيافتك"
+   },
+   {
+    "tag": "A",
+    "size": "14px",
+    "y": 603,
+    "t": "شاهد أعمالنا"
+   },
+   {
+    "tag": "SPAN",
+    "size": "10px",
+    "y": 805,
+    "t": "اسحب للأسفل"
+   }
+  ],
+  "tap": [
+   {
+    "t": "A",
+    "w": 1,
+    "h": 1,
+    "txt": "تخطي إلى المحتوى الرئيسي"
+   },
+   {
+    "t": "A",
+    "w": 177,
+    "h": 48,
+    "txt": "أصول الضيافة\nASOUL AL-DIAFA"
+   },
+   {
+    "t": "A",
+    "w": 72,
+    "h": 44,
+    "txt": "الرئيسية"
+   },
+   {
+    "t": "A",
+    "w": 64,
+    "h": 44,
+    "txt": "خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 70,
+    "h": 44,
+    "txt": "تقديماتنا"
+   },
+   {
+    "t": "A",
+    "w": 110,
+    "h": 44,
+    "txt": "معرض الأعمال"
+   },
+   {
+    "t": "A",
+    "w": 71,
+    "h": 44,
+    "txt": "من نحن"
+   },
+   {
+    "t": "A",
+    "w": 89,
+    "h": 44,
+    "txt": "تواصل معنا"
+   },
+   {
+    "t": "A",
+    "w": 161,
+    "h": 44,
+    "txt": "احجز عبر واتساب"
+   },
+   {
+    "t": "A",
+    "w": 289,
+    "h": 50,
+    "txt": "احجز ضيافتك"
+   },
+   {
+    "t": "A",
+    "w": 289,
+    "h": 50,
+    "txt": "شاهد أعمالنا"
+   },
+   {
+    "t": "A",
+    "w": 128,
+    "h": 20,
+    "txt": "تعرف على الفريق\n←"
+   },
+   {
+    "t": "A",
+    "w": 112,
+    "h": 20,
+    "txt": "شاهد التجهيزات\n←"
+   },
+   {
+    "t": "A",
+    "w": 113,
+    "h": 20,
+    "txt": "تصفّح التقديمات\n←"
+   },
+   {
+    "t": "A",
+    "w": 215,
+    "h": 50,
+    "txt": "استعرض كامل المعرض"
+   },
+   {
+    "t": "A",
+    "w": 185,
+    "h": 54,
+    "txt": "تواصل عبر واتساب"
+   },
+   {
+    "t": "A",
+    "w": 132,
+    "h": 54,
+    "txt": "اتصل الآن"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي جدة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي ينبع"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي بدر"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "صبابين قهوة\nفي مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي جدة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي ينبع"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي بدر"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي المدينة المنو"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 74,
+    "txt": "ضيافة مناسبات\nفي مكة المكرمة"
+   },
+   {
+    "t": "A",
+    "w": 44,
+    "h": 44,
+    "txt": "واتساب"
+   },
+   {
+    "t": "A",
+    "w": 44,
+    "h": 44,
+    "txt": "اتصل بنا"
+   },
+   {
+    "t": "A",
+    "w": 44,
+    "h": 44,
+    "txt": "بريد إلكتروني"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "الرئيسية"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "خدماتنا"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "تقديماتنا"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "معرض الأعمال"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "من نحن"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "تواصل معنا"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "+966 56 899 7316"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "0568997316"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "osoulaldiafa@gmail.com"
+   },
+   {
+    "t": "A",
+    "w": 112,
+    "h": 26,
+    "txt": "قهوجيين ومباشرين"
+   },
+   {
+    "t": "A",
+    "w": 97,
+    "h": 26,
+    "txt": "ركن قهوة عربية"
+   },
+   {
+    "t": "A",
+    "w": 86,
+    "h": 26,
+    "txt": "ضيافة أعراس"
+   },
+   {
+    "t": "A",
+    "w": 94,
+    "h": 26,
+    "txt": "ضيافة مؤتمرات"
+   },
+   {
+    "t": "A",
+    "w": 114,
+    "h": 26,
+    "txt": "تجهيز ضيافة حفلات"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "صبابين قهوة جدة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "صبابين قهوة ينبع"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "صبابين قهوة بدر"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "صبابين قهوة المدينة المنورة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "صبابين قهوة مكة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "ضيافة مناسبات جدة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "ضيافة مناسبات ينبع"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "ضيافة مناسبات بدر"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "ضيافة مناسبات المدينة"
+   },
+   {
+    "t": "A",
+    "w": 214,
+    "h": 36,
+    "txt": "ضيافة مناسبات مكة"
+   },
+   {
+    "t": "A",
+    "w": 76,
+    "h": 106,
+    "txt": "انستقرام"
+   },
+   {
+    "t": "A",
+    "w": 76,
+    "h": 106,
+    "txt": "تيك توك"
+   },
+   {
+    "t": "A",
+    "w": 76,
+    "h": 106,
+    "txt": "سناب شات"
+   },
+   {
+    "t": "A",
+    "w": 83,
+    "h": 14,
+    "txt": "م. معين العبّاسي"
+   },
+   {
+    "t": "A",
+    "w": 56,
+    "h": 56,
+    "txt": "تواصل عبر واتساب"
+   }
+  ],
+  "contrast": [
+   {
+    "t": "احجز ضيافتك",
+    "size": 14,
+    "color": "rgb(20, 18, 16)",
+    "bg": "rgba(16, 14, 12, 0.55)",
+    "ratio": 1.03
+   },
+   {
+    "t": "تواصل عبر واتساب",
+    "size": 14,
+    "color": "rgb(20, 18, 16)",
+    "bg": "rgb(10, 10, 10)",
+    "ratio": 1.06
+   },
+   {
+    "t": "شاهد أعمالنا",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.04)",
+    "ratio": 1.49
+   },
+   {
+    "t": "استعرض كامل المعرض",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.04)",
+    "ratio": 1.49
+   },
+   {
+    "t": "اتصل الآن",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.04)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "صبابين قهوة",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "ضيافة مناسبات",
+    "size": 14,
+    "color": "rgb(226, 198, 142)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 1.49
+   },
+   {
+    "t": "قهوجيين ومباشرين",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "ركن قهوة عربية",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "ضيافة أعراس",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "ضيافة مؤتمرات",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "تجهيز ضيافة حفلات",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.55)",
+    "bg": "rgba(212, 175, 55, 0.06)",
+    "ratio": 1.83
+   },
+   {
+    "t": "في جدة",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في ينبع",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في بدر",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في المدينة المنورة",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   },
+   {
+    "t": "في مكة المكرمة",
+    "size": 12,
+    "color": "rgba(245, 239, 224, 0.8)",
+    "bg": "rgba(197, 160, 89, 0.05)",
+    "ratio": 2.14
+   }
+  ],
+  "contrastFails": 30,
+  "contrastTotal": 124,
+  "imgs": [
+   {
+    "src": "logo.webp",
+    "nw": 1024,
+    "nh": 1024,
+    "dw": 48,
+    "dh": 48,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fhero%2Fhero-desktop.webp&w=1920&q=75",
+    "nw": 900,
+    "nh": 1200,
+    "dw": 1440,
+    "dh": 900,
+    "loading": "auto"
+   },
+   {
+    "src": "image?url=%2Flogo.webp&w=256&q=75",
+    "nw": 256,
+    "nh": 256,
+    "dw": 140,
+    "dh": 140,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 216,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 383,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 353,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 348,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 574,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 127,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 216,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 383,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 353,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 348,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 574,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 127,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 216,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 383,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 353,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 348,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 574,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 127,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 216,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 383,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-7.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-8.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-9.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-10.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 353,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=640&q=75",
+    "nw": 288,
+    "nh": 512,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "",
+    "nw": 0,
+    "nh": 0,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-1.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-2.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 348,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-3.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 384,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-4.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 574,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-5.webp&w=384&q=75",
+    "nw": 288,
+    "nh": 127,
+    "dw": 286,
+    "dh": 190,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-3.webp&w=640&q=75",
+    "nw": 475,
+    "nh": 844,
+    "dw": 409,
+    "dh": 306,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-5.webp&w=640&q=75",
+    "nw": 475,
+    "nh": 633,
+    "dw": 409,
+    "dh": 307,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fdates%2Fdates-6.webp&w=640&q=75",
+    "nw": 475,
+    "nh": 830,
+    "dw": 409,
+    "dh": 306,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-1.webp&w=384&q=75",
+    "nw": 359,
+    "nh": 479,
+    "dw": 282,
+    "dh": 418,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-2.webp&w=384&q=75",
+    "nw": 359,
+    "nh": 441,
+    "dw": 282,
+    "dh": 201,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fproducts%2Fproduct-9.webp&w=384&q=75",
+    "nw": 359,
+    "nh": 470,
+    "dw": 282,
+    "dh": 201,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fsetups%2Fsetup-6.webp&w=384&q=75",
+    "nw": 359,
+    "nh": 479,
+    "dw": 580,
+    "dh": 201,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fdates%2Fdates-6.webp&w=640&q=75",
+    "nw": 360,
+    "nh": 629,
+    "dw": 282,
+    "dh": 201,
+    "loading": "lazy"
+   },
+   {
+    "src": "image?url=%2Fimages%2Fteam%2Fteam-10.webp&w=384&q=75",
+    "nw": 359,
+    "nh": 269,
+    "dw": 282,
+    "dh": 201,
+    "loading": "lazy"
+   },
+   {
+    "src": "logo.webp",
+    "nw": 1024,
+    "nh": 1024,
+    "dw": 64,
+    "dh": 64,
+    "loading": "auto"
+   }
+  ],
+  "sectionRhythm": [
+   {
+    "h": 5888,
+    "pt": 0,
+    "pb": 0,
+    "heading": "أصول الضيافة"
+   },
+   {
+    "h": 482,
+    "pt": 96,
+    "pb": 96,
+    "heading": "خدماتنا في مدن المملكة"
+   }
+  ],
+  "waLinks": 7,
+  "telLinks": 3,
+  "forms": 0,
+  "inputs": [],
+  "docH": 7360,
+  "screens": 8.2,
+  "bytesByType": {
+   "image": 757,
+   "media": 352,
+   "font": 318,
+   "script": 0,
+   "document": 0,
+   "stylesheet": 0,
+   "fetch": 0
+  },
+  "bytesTotalKB": 1427,
+  "reqCount": 67
+ }
+}

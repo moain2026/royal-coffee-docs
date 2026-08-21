@@ -1,0 +1,1692 @@
+{
+ "qahwa-station-male-host-dallah-wedding-hall-": {
+  "cat": "weddings",
+  "src": "weddings__qahwa-station-male-host-dallah-wedding-hall-ceremony.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 18.1
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 46.4
+   }
+  }
+ },
+ "luxury-ornate-tea-cup-saucer": {
+  "cat": "equipment",
+  "src": "equipment__jeddah-luxury-ornate-tea-cup-saucer.webp",
+  "w": 1080,
+  "h": 837,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 372,
+    "kb": 23.2
+   },
+   "md": {
+    "w": 900,
+    "h": 698,
+    "kb": 56.8
+   }
+  }
+ },
+ "vip-majlis-golden-arabic-coffee-stand": {
+  "cat": "equipment",
+  "src": "equipment__jeddah-vip-majlis-golden-arabic-coffee-stand.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 28.4
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 88.5
+   }
+  }
+ },
+ "golden-buffet-tray-glass-cups-hospitality": {
+  "cat": "equipment",
+  "src": "equipment__ksa-golden-buffet-tray-glass-cups-hospitality.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 30.5
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 91.1
+   }
+  }
+ },
+ "luxury-qahwa-golden-glass-cup-stand-majlis": {
+  "cat": "equipment",
+  "src": "equipment__ksa-luxury-qahwa-golden-glass-cup-stand-majlis.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 25.6
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 77.3
+   }
+  }
+ },
+ "luxury-arabic-coffee-glass-cup-dessert-table": {
+  "cat": "equipment",
+  "src": "equipment__riyadh-luxury-arabic-coffee-glass-cup-dessert-table.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 21.1
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 63.9
+   }
+  }
+ },
+ "royal-saudi-gold-qahwa-dates-service": {
+  "cat": "equipment",
+  "src": "equipment__royal-saudi-gold-qahwa-dates-service.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 56.9
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 151.3
+   }
+  }
+ },
+ "arabic-coffee-vip-golden-cup-stand-majlis": {
+  "cat": "equipment",
+  "src": "equipment__saudi-arabic-coffee-vip-golden-cup-stand-majlis.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 29.6
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 94.2
+   }
+  }
+ },
+ "ceremonial-golden-tray-white-cups-hospitalit": {
+  "cat": "equipment",
+  "src": "equipment__saudi-ceremonial-golden-tray-white-cups-hospitality.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 13.5
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 34.4
+   }
+  }
+ },
+ "hospitality-glass-tea-set-equipment": {
+  "cat": "equipment",
+  "src": "equipment__saudi-hospitality-glass-tea-set-equipment.webp",
+  "w": 4160,
+  "h": 2777,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 320,
+    "kb": 13.9
+   },
+   "md": {
+    "w": 900,
+    "h": 601,
+    "kb": 35.4
+   },
+   "lg": {
+    "w": 1600,
+    "h": 1068,
+    "kb": 61.5
+   }
+  }
+ },
+ "vip-hospitality-golden-coffee-cup-stand-even": {
+  "cat": "equipment",
+  "src": "equipment__saudi-vip-hospitality-golden-coffee-cup-stand-event.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 17.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 47.6
+   }
+  }
+ },
+ "vip-saudi-golden-dallah-dates-table": {
+  "cat": "equipment",
+  "src": "equipment__vip-saudi-golden-dallah-dates-table.webp",
+  "w": 678,
+  "h": 678,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 22.1
+   }
+  }
+ },
+ "baklava": {
+  "cat": "sweets",
+  "src": "sweets__baklava.webp",
+  "w": 720,
+  "h": 720,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 47.4
+   }
+  }
+ },
+ "chocolate-croissant": {
+  "cat": "sweets",
+  "src": "sweets__chocolate-croissant.webp",
+  "w": 736,
+  "h": 920,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 600,
+    "kb": 40.0
+   }
+  }
+ },
+ "kunafa": {
+  "cat": "sweets",
+  "src": "sweets__kunafa.webp",
+  "w": 735,
+  "h": 1099,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 718,
+    "kb": 20.2
+   }
+  }
+ },
+ "patchi-chocolate": {
+  "cat": "sweets",
+  "src": "sweets__patchi-chocolate.webp",
+  "w": 600,
+  "h": 600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 9.5
+   }
+  }
+ },
+ "elegant-dessert-buffet-panna-cotta-shooters": {
+  "cat": "sweets",
+  "src": "sweets__saudi-elegant-dessert-buffet-panna-cotta-shooters.webp",
+  "w": 1200,
+  "h": 675,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 270,
+    "kb": 25.2
+   },
+   "md": {
+    "w": 900,
+    "h": 506,
+    "kb": 77.7
+   }
+  }
+ },
+ "elegant-dessert-station-mango-panna-cotta-re": {
+  "cat": "sweets",
+  "src": "sweets__saudi-elegant-dessert-station-mango-panna-cotta-red-velvet.webp",
+  "w": 1165,
+  "h": 960,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 396,
+    "kb": 26.0
+   },
+   "md": {
+    "w": 900,
+    "h": 742,
+    "kb": 73.1
+   }
+  }
+ },
+ "fruit-platter-baklava-pistachio-dessert": {
+  "cat": "sweets",
+  "src": "sweets__saudi-fruit-platter-baklava-pistachio-dessert.webp",
+  "w": 1200,
+  "h": 801,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 320,
+    "kb": 28.6
+   },
+   "md": {
+    "w": 900,
+    "h": 601,
+    "kb": 75.2
+   }
+  }
+ },
+ "luxury-dessert-buffet-chocolate-mousse-basbo": {
+  "cat": "sweets",
+  "src": "sweets__saudi-luxury-dessert-buffet-chocolate-mousse-basbousa.webp",
+  "w": 1200,
+  "h": 540,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 216,
+    "kb": 23.5
+   },
+   "md": {
+    "w": 900,
+    "h": 405,
+    "kb": 72.4
+   }
+  }
+ },
+ "luxury-dessert-buffet-mini-cakes-shooters": {
+  "cat": "sweets",
+  "src": "sweets__saudi-luxury-dessert-buffet-mini-cakes-shooters.webp",
+  "w": 1200,
+  "h": 540,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 216,
+    "kb": 22.9
+   },
+   "md": {
+    "w": 900,
+    "h": 405,
+    "kb": 65.9
+   }
+  }
+ },
+ "luxury-dessert-station-fresh-fruit-mix": {
+  "cat": "sweets",
+  "src": "sweets__saudi-luxury-dessert-station-fresh-fruit-mix.webp",
+  "w": 1200,
+  "h": 2793,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 1117,
+    "kb": 73.8
+   },
+   "md": {
+    "w": 900,
+    "h": 2095,
+    "kb": 174.2
+   }
+  }
+ },
+ "luxury-dessert-station-fruit-mousse-cups": {
+  "cat": "sweets",
+  "src": "sweets__saudi-luxury-dessert-station-fruit-mousse-cups.webp",
+  "w": 1200,
+  "h": 900,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 360,
+    "kb": 23.2
+   },
+   "md": {
+    "w": 900,
+    "h": 675,
+    "kb": 61.6
+   }
+  }
+ },
+ "traditional-baklava-kunafa-pistachio-fruit-p": {
+  "cat": "sweets",
+  "src": "sweets__saudi-traditional-baklava-kunafa-pistachio-fruit-platter.webp",
+  "w": 1200,
+  "h": 800,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 320,
+    "kb": 29.2
+   },
+   "md": {
+    "w": 900,
+    "h": 600,
+    "kb": 80.7
+   }
+  }
+ },
+ "dates-assorted": {
+  "cat": "dates",
+  "src": "dates__dates-assorted.webp",
+  "w": 1000,
+  "h": 1000,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 9.2
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 24.5
+   }
+  }
+ },
+ "dates-plain": {
+  "cat": "dates",
+  "src": "dates__dates-plain.webp",
+  "w": 600,
+  "h": 600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 16.2
+   }
+  }
+ },
+ "khalas-sesame-tahini": {
+  "cat": "dates",
+  "src": "dates__khalas-sesame-tahini.webp",
+  "w": 988,
+  "h": 1000,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 486,
+    "kb": 17.1
+   },
+   "md": {
+    "w": 900,
+    "h": 911,
+    "kb": 48.6
+   }
+  }
+ },
+ "khalas-stuffed": {
+  "cat": "dates",
+  "src": "dates__khalas-stuffed.webp",
+  "w": 1000,
+  "h": 1000,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 16.4
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 49.8
+   }
+  }
+ },
+ "palm-khalas-stuffed": {
+  "cat": "dates",
+  "src": "dates__palm-khalas-stuffed.webp",
+  "w": 666,
+  "h": 1000,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 721,
+    "kb": 28.4
+   }
+  }
+ },
+ "palm-sukari-stuffed": {
+  "cat": "dates",
+  "src": "dates__palm-sukari-stuffed.webp",
+  "w": 1280,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 21.6
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 61.2
+   }
+  }
+ },
+ "palm-sukari": {
+  "cat": "dates",
+  "src": "dates__palm-sukari.webp",
+  "w": 1108,
+  "h": 1448,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 627,
+    "kb": 22.0
+   },
+   "md": {
+    "w": 900,
+    "h": 1176,
+    "kb": 67.9
+   }
+  }
+ },
+ "stuffed-dates-2": {
+  "cat": "dates",
+  "src": "dates__stuffed-dates-2.webp",
+  "w": 500,
+  "h": 500,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 13.2
+   }
+  }
+ },
+ "stuffed-dates-3": {
+  "cat": "dates",
+  "src": "dates__stuffed-dates-3.webp",
+  "w": 835,
+  "h": 1000,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 575,
+    "kb": 31.0
+   }
+  }
+ },
+ "stuffed-dates-5": {
+  "cat": "dates",
+  "src": "dates__stuffed-dates-5.webp",
+  "w": 1092,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 563,
+    "kb": 21.0
+   },
+   "md": {
+    "w": 900,
+    "h": 1055,
+    "kb": 53.7
+   }
+  }
+ },
+ "stuffed-dates": {
+  "cat": "dates",
+  "src": "dates__stuffed-dates.webp",
+  "w": 478,
+  "h": 823,
+  "sizes": {
+   "sm": {
+    "w": 478,
+    "h": 823,
+    "kb": 78.8
+   }
+  }
+ },
+ "sukari-stuffed": {
+  "cat": "dates",
+  "src": "dates__sukari-stuffed.webp",
+  "w": 900,
+  "h": 778,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 415,
+    "kb": 48.7
+   },
+   "md": {
+    "w": 900,
+    "h": 778,
+    "kb": 137.7
+   }
+  }
+ },
+ "dates-arabic-sweets-gahwa-distribution": {
+  "cat": "distributions",
+  "src": "distributions__ksa-dates-arabic-sweets-gahwa-distribution.webp",
+  "w": 478,
+  "h": 823,
+  "sizes": {
+   "sm": {
+    "w": 478,
+    "h": 823,
+    "kb": 78.5
+   }
+  }
+ },
+ "luxury-hospitality-gift-tray-qahwa-ceremony": {
+  "cat": "distributions",
+  "src": "distributions__riyadh-luxury-hospitality-gift-tray-qahwa-ceremony.webp",
+  "w": 1280,
+  "h": 720,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 270,
+    "kb": 21.8
+   },
+   "md": {
+    "w": 900,
+    "h": 506,
+    "kb": 72.1
+   }
+  }
+ },
+ "luxury-palm-date-sweets-distribution": {
+  "cat": "distributions",
+  "src": "distributions__saudi-luxury-palm-date-sweets-distribution.webp",
+  "w": 666,
+  "h": 1000,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 721,
+    "kb": 28.3
+   }
+  }
+ },
+ "arak-sous": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__arak-sous.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 15.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 52.9
+   }
+  }
+ },
+ "fresh-juice": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__fresh-juice.webp",
+  "w": 1850,
+  "h": 2560,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 664,
+    "kb": 18.2
+   },
+   "md": {
+    "w": 900,
+    "h": 1245,
+    "kb": 44.4
+   },
+   "lg": {
+    "w": 1600,
+    "h": 2214,
+    "kb": 78.2
+   }
+  }
+ },
+ "iced-latte": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__iced-latte.webp",
+  "w": 500,
+  "h": 750,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 720,
+    "kb": 20.7
+   }
+  }
+ },
+ "karkade": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__karkade.webp",
+  "w": 1024,
+  "h": 768,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 360,
+    "kb": 12.9
+   },
+   "md": {
+    "w": 900,
+    "h": 675,
+    "kb": 37.4
+   }
+  }
+ },
+ "mojito": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__mojito.webp",
+  "w": 340,
+  "h": 509,
+  "sizes": {
+   "sm": {
+    "w": 340,
+    "h": 509,
+    "kb": 18.2
+   }
+  }
+ },
+ "smoothie": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__smoothie.webp",
+  "w": 500,
+  "h": 500,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 13.0
+   }
+  }
+ },
+ "sobia": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__sobia.webp",
+  "w": 828,
+  "h": 683,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 396,
+    "kb": 12.8
+   }
+  }
+ },
+ "tamarind": {
+  "cat": "cold-drinks",
+  "src": "cold-drinks__tamarind.webp",
+  "w": 800,
+  "h": 1035,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 621,
+    "kb": 23.5
+   }
+  }
+ },
+ "artist-10": {
+  "cat": "services",
+  "src": "services__artistic__artist__artist-10.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 72.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 224.4
+   }
+  }
+ },
+ "artist-11": {
+  "cat": "services",
+  "src": "services__artistic__artist__artist-11.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 57.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 141.8
+   }
+  }
+ },
+ "artist-6": {
+  "cat": "services",
+  "src": "services__artistic__artist__artist-6.webp",
+  "w": 828,
+  "h": 817,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 474,
+    "kb": 24.0
+   }
+  }
+ },
+ "artist-8": {
+  "cat": "services",
+  "src": "services__artistic__artist__artist-8.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 72.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 224.4
+   }
+  }
+ },
+ "artist-9": {
+  "cat": "services",
+  "src": "services__artistic__artist__artist-9.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 57.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 141.8
+   }
+  }
+ },
+ "buffet-2": {
+  "cat": "services",
+  "src": "services__artistic__buffet__buffet-2.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 47.4
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 146.3
+   }
+  }
+ },
+ "buffet-3": {
+  "cat": "services",
+  "src": "services__artistic__buffet__buffet-3.webp",
+  "w": 899,
+  "h": 1599,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 854,
+    "kb": 65.7
+   }
+  }
+ },
+ "tent-2": {
+  "cat": "services",
+  "src": "services__artistic__heritage-tent__tent-2.webp",
+  "w": 1280,
+  "h": 960,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 360,
+    "kb": 24.6
+   },
+   "md": {
+    "w": 900,
+    "h": 675,
+    "kb": 86.8
+   }
+  }
+ },
+ "tent-4": {
+  "cat": "services",
+  "src": "services__artistic__heritage-tent__tent-4.webp",
+  "w": 1280,
+  "h": 720,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 270,
+    "kb": 22.5
+   },
+   "md": {
+    "w": 900,
+    "h": 506,
+    "kb": 85.4
+   }
+  }
+ },
+ "table-1": {
+  "cat": "services",
+  "src": "services__artistic__mobile-table__table-1.webp",
+  "w": 1600,
+  "h": 900,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 270,
+    "kb": 12.8
+   },
+   "md": {
+    "w": 900,
+    "h": 506,
+    "kb": 41.5
+   },
+   "lg": {
+    "w": 1600,
+    "h": 900,
+    "kb": 96.0
+   }
+  }
+ },
+ "photo-booth-1": {
+  "cat": "services",
+  "src": "services__artistic__photo-booth__photo-booth-1.webp",
+  "w": 900,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 853,
+    "kb": 59.2
+   },
+   "md": {
+    "w": 900,
+    "h": 1600,
+    "kb": 163.5
+   }
+  }
+ },
+ "photo-booth-5": {
+  "cat": "services",
+  "src": "services__artistic__photo-booth__photo-booth-5.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 35.4
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 129.3
+   }
+  }
+ },
+ "photo-booth-6": {
+  "cat": "services",
+  "src": "services__artistic__photo-booth__photo-booth-6.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 43.2
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 142.5
+   }
+  }
+ },
+ "sawas-3": {
+  "cat": "services",
+  "src": "services__male__sawas__sawas-3.webp",
+  "w": 786,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 977,
+    "kb": 47.5
+   }
+  }
+ },
+ "sawas-5": {
+  "cat": "services",
+  "src": "services__male__sawas__sawas-5.webp",
+  "w": 1802,
+  "h": 4000,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 1065,
+    "kb": 57.3
+   },
+   "md": {
+    "w": 900,
+    "h": 1998,
+    "kb": 166.3
+   },
+   "lg": {
+    "w": 1600,
+    "h": 3552,
+    "kb": 293.3
+   }
+  }
+ },
+ "souqiya-2": {
+  "cat": "services",
+  "src": "services__male__souqiya__souqiya-2.webp",
+  "w": 1600,
+  "h": 900,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 270,
+    "kb": 12.8
+   },
+   "md": {
+    "w": 900,
+    "h": 506,
+    "kb": 41.5
+   },
+   "lg": {
+    "w": 1600,
+    "h": 900,
+    "kb": 96.0
+   }
+  }
+ },
+ "souqiya-4": {
+  "cat": "services",
+  "src": "services__male__souqiya__souqiya-4.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 55.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 145.4
+   }
+  }
+ },
+ "souqiya-5": {
+  "cat": "services",
+  "src": "services__male__souqiya__souqiya-5.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 25.3
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 68.5
+   }
+  }
+ },
+ "souqiya-6": {
+  "cat": "services",
+  "src": "services__male__souqiya__souqiya-6.webp",
+  "w": 960,
+  "h": 1280,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 21.5
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 55.0
+   }
+  }
+ },
+ "souqiya-7": {
+  "cat": "services",
+  "src": "services__male__souqiya__souqiya-7.webp",
+  "w": 280,
+  "h": 307,
+  "sizes": {
+   "sm": {
+    "w": 280,
+    "h": 307,
+    "kb": 10.8
+   }
+  }
+ },
+ "souqiya-8": {
+  "cat": "services",
+  "src": "services__male__souqiya__souqiya-8.webp",
+  "w": 280,
+  "h": 316,
+  "sizes": {
+   "sm": {
+    "w": 280,
+    "h": 316,
+    "kb": 25.2
+   }
+  }
+ },
+ "sawas-style-2": {
+  "cat": "services",
+  "src": "services__sawas__sawas-style-2.webp",
+  "w": 1014,
+  "h": 1382,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 654,
+    "kb": 38.5
+   },
+   "md": {
+    "w": 900,
+    "h": 1227,
+    "kb": 94.8
+   }
+  }
+ },
+ "sawas-style-4": {
+  "cat": "services",
+  "src": "services__sawas__sawas-style-4.webp",
+  "w": 1014,
+  "h": 1382,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 654,
+    "kb": 40.5
+   },
+   "md": {
+    "w": 900,
+    "h": 1227,
+    "kb": 108.3
+   }
+  }
+ },
+ "crispy-chicken-popcorn-bites-honey-mustard": {
+  "cat": "snacks",
+  "src": "snacks__saudi-crispy-chicken-popcorn-bites-honey-mustard.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 34.2
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 86.6
+   }
+  }
+ },
+ "crispy-golden-potato-wedges-rosemary-caterin": {
+  "cat": "snacks",
+  "src": "snacks__saudi-crispy-golden-potato-wedges-rosemary-catering.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 30.4
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 76.0
+   }
+  }
+ },
+ "crispy-mozzarella-cheese-sticks-marinara-sna": {
+  "cat": "snacks",
+  "src": "snacks__saudi-crispy-mozzarella-cheese-sticks-marinara-snacks.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 28.9
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 74.7
+   }
+  }
+ },
+ "crispy-spring-rolls-sweet-chili": {
+  "cat": "snacks",
+  "src": "snacks__saudi-crispy-spring-rolls-sweet-chili-luxury-snacks.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 26.0
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 64.8
+   }
+  }
+ },
+ "golden-potato-cheese-croquettes": {
+  "cat": "snacks",
+  "src": "snacks__saudi-golden-potato-cheese-croquettes-luxury-catering.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 38.4
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 101.4
+   }
+  }
+ },
+ "gourmet-finger-food-assortment-canapes": {
+  "cat": "snacks",
+  "src": "snacks__saudi-gourmet-finger-food-assortment-canapes-vip.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 39.9
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 102.5
+   }
+  }
+ },
+ "italian-bruschetta-tomato-basil-luxury-appet": {
+  "cat": "snacks",
+  "src": "snacks__saudi-italian-bruschetta-tomato-basil-luxury-appetizer.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 40.4
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 97.3
+   }
+  }
+ },
+ "loaded-nachos-cheese-jalapeno": {
+  "cat": "snacks",
+  "src": "snacks__saudi-loaded-nachos-cheese-jalapeno-vip-snacks.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 42.1
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 103.0
+   }
+  }
+ },
+ "mini-beef-sliders-cheese": {
+  "cat": "snacks",
+  "src": "snacks__saudi-mini-beef-sliders-cheese-luxury-catering.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 22.4
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 56.6
+   }
+  }
+ },
+ "mini-margherita-pizza-luxury-catering-finger": {
+  "cat": "snacks",
+  "src": "snacks__saudi-mini-margherita-pizza-luxury-catering-finger-food.webp",
+  "w": 1100,
+  "h": 1100,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 36.6
+   },
+   "md": {
+    "w": 900,
+    "h": 900,
+    "kb": 90.0
+   }
+  }
+ },
+ "fresh-figs": {
+  "cat": "fruits",
+  "src": "fruits__saudi-fresh-figs-luxury-hospitality-fruit.webp",
+  "w": 970,
+  "h": 646,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 320,
+    "kb": 11.3
+   },
+   "md": {
+    "w": 900,
+    "h": 599,
+    "kb": 33.5
+   }
+  }
+ },
+ "fresh-mango-cubes": {
+  "cat": "fruits",
+  "src": "fruits__saudi-fresh-mango-cubes-luxury-hospitality-fruit.webp",
+  "w": 1200,
+  "h": 799,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 320,
+    "kb": 7.5
+   },
+   "md": {
+    "w": 900,
+    "h": 599,
+    "kb": 19.9
+   }
+  }
+ },
+ "fresh-pineapple-slices": {
+  "cat": "fruits",
+  "src": "fruits__saudi-fresh-pineapple-slices-premium-catering-fruit.webp",
+  "w": 1200,
+  "h": 1179,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 472,
+    "kb": 16.1
+   },
+   "md": {
+    "w": 900,
+    "h": 884,
+    "kb": 52.2
+   }
+  }
+ },
+ "fresh-pomegranate": {
+  "cat": "fruits",
+  "src": "fruits__saudi-fresh-pomegranate-premium-catering-fruit.webp",
+  "w": 969,
+  "h": 1024,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 507,
+    "kb": 21.1
+   },
+   "md": {
+    "w": 900,
+    "h": 951,
+    "kb": 65.8
+   }
+  }
+ },
+ "fresh-sliced-kiwi": {
+  "cat": "fruits",
+  "src": "fruits__saudi-fresh-sliced-kiwi-luxury-hospitality-fruit.webp",
+  "w": 1200,
+  "h": 799,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 320,
+    "kb": 31.1
+   },
+   "md": {
+    "w": 900,
+    "h": 599,
+    "kb": 99.6
+   }
+  }
+ },
+ "fresh-strawberries": {
+  "cat": "fruits",
+  "src": "fruits__saudi-fresh-strawberries-luxury-hospitality-fruit.webp",
+  "w": 1200,
+  "h": 900,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 360,
+    "kb": 31.0
+   },
+   "md": {
+    "w": 900,
+    "h": 675,
+    "kb": 87.6
+   }
+  }
+ },
+ "mixed-berries-bowl": {
+  "cat": "fruits",
+  "src": "fruits__saudi-mixed-berries-bowl-premium-catering-fruit.webp",
+  "w": 1200,
+  "h": 1620,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 648,
+    "kb": 51.0
+   },
+   "md": {
+    "w": 900,
+    "h": 1215,
+    "kb": 160.8
+   }
+  }
+ },
+ "red-green-grapes": {
+  "cat": "fruits",
+  "src": "fruits__saudi-red-green-grapes-premium-catering-fruit.webp",
+  "w": 1200,
+  "h": 1619,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 648,
+    "kb": 40.1
+   },
+   "md": {
+    "w": 900,
+    "h": 1214,
+    "kb": 109.8
+   }
+  }
+ },
+ "catering-chicken-cheese-sandwich-long-roll": {
+  "cat": "sandwiches",
+  "src": "sandwiches__saudi-catering-chicken-cheese-sandwich-long-roll.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 12.7
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 32.3
+   }
+  }
+ },
+ "catering-grilled-chicken-sandwich-lettuce-ch": {
+  "cat": "sandwiches",
+  "src": "sandwiches__saudi-catering-grilled-chicken-sandwich-lettuce-cheese.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 9.2
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 23.5
+   }
+  }
+ },
+ "catering-smoked-turkey-cheese-tomato-sandwic": {
+  "cat": "sandwiches",
+  "src": "sandwiches__saudi-catering-smoked-turkey-cheese-tomato-sandwich.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 10.9
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 27.4
+   }
+  }
+ },
+ "catering-tuna-salad-sandwich-long-roll": {
+  "cat": "sandwiches",
+  "src": "sandwiches__saudi-catering-tuna-salad-sandwich-long-roll.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 13.6
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 35.0
+   }
+  }
+ },
+ "catering-tuna-sandwich-sesame-bun": {
+  "cat": "sandwiches",
+  "src": "sandwiches__saudi-catering-tuna-sandwich-sesame-bun.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 11.2
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 28.2
+   }
+  }
+ },
+ "catering-turkey-cheese-tomato-long-sandwich": {
+  "cat": "sandwiches",
+  "src": "sandwiches__saudi-catering-turkey-cheese-tomato-long-sandwich.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 10.9
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 28.7
+   }
+  }
+ },
+ "catering-turkey-sandwich-soft-roll-tomato": {
+  "cat": "sandwiches",
+  "src": "sandwiches__saudi-catering-turkey-sandwich-soft-roll-tomato.webp",
+  "w": 1200,
+  "h": 1600,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 640,
+    "kb": 7.8
+   },
+   "md": {
+    "w": 900,
+    "h": 1200,
+    "kb": 20.3
+   }
+  }
+ },
+ "appetizers": {
+  "cat": "pastry",
+  "src": "pastry__appetizers.webp",
+  "w": 720,
+  "h": 720,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 31.0
+   }
+  }
+ },
+ "arabic-pastry": {
+  "cat": "pastry",
+  "src": "pastry__arabic-pastry.webp",
+  "w": 720,
+  "h": 900,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 600,
+    "kb": 56.6
+   }
+  }
+ },
+ "assorted-pastry": {
+  "cat": "pastry",
+  "src": "pastry__assorted-pastry.webp",
+  "w": 736,
+  "h": 1103,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 719,
+    "kb": 62.0
+   }
+  }
+ },
+ "fruit-pie": {
+  "cat": "pastry",
+  "src": "pastry__fruit-pie.webp",
+  "w": 575,
+  "h": 653,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 545,
+    "kb": 24.7
+   }
+  }
+ },
+ "samosa": {
+  "cat": "pastry",
+  "src": "pastry__samosa.webp",
+  "w": 736,
+  "h": 736,
+  "sizes": {
+   "sm": {
+    "w": 480,
+    "h": 480,
+    "kb": 18.6
+   }
+  }
+ }
+}
